@@ -1,0 +1,1065 @@
+## intent:print
+- print a [](color) [](object)
+- print a [](size) [](object)
+- print a [](size) [](color) [](object)
+- print a [](color) thing
+- print a [](color) painted [](object)
+- print a [](size) sized [](object)
+- print a [](size) [](color) painted [](object)
+- print a [](size) sized [](color) [](object)
+- print a [](color) colored [](object)
+- print a [](size) [](color) colored [](object)
+- print a [](color) painted thing
+
+- try to print a [](color) [](object)
+- try to print a [](size) [](object)
+- try to print a [](size) [](color) [](object)
+- try to print a [](color) thing
+- try to print a [](color) painted [](object)
+- try to print a [](size) sized [](object)
+- try to print a [](size) [](color) painted [](object)
+- try to print a [](size) sized [](color) [](object)
+- try to print a [](color) colored [](object)
+- try to print a [](size) [](color) colored [](object)
+- try to print a [](color) painted thing
+
+- could you please print a [](color) [](object)
+- could you please print a [](size) [](object)
+- could you please print a [](size) [](color) [](object)
+- could you please print a [](color) thing
+- could you please print a [](color) painted [](object)
+- could you please print a [](size) sized [](object)
+- could you please print a [](size) [](color) painted [](object)
+- could you please print a [](size) sized [](color) [](object)
+- could you please print a [](color) colored [](object)
+- could you please print a [](size) [](color) colored [](object)
+- could you please print a [](color) painted thing
+
+
+
+- can you please print a [](color) [](object)
+- can you please print a [](size) [](object)
+- can you please print a [](size) [](color) [](object)
+- can you please print a [](color) thing
+- can you please print a [](color) painted [](object)
+- can you please print a [](size) sized [](object)
+- can you please print a [](size) [](color) painted [](object)
+- can you please print a [](size) sized [](color) [](object)
+- can you please print a [](color) colored [](object)
+- can you please print a [](size) [](color) colored [](object)
+- can you please print a [](color) painted thing
+
+
+- can you print a [](color) [](object)
+- can you print a [](size) [](object)
+- can you print a [](size) [](color) [](object)
+- can you print a [](color) thing
+- can you print a [](color) painted [](object)
+- can you print a [](size) sized [](object)
+- can you print a [](size) [](color) painted [](object)
+- can you print a [](size) sized [](color) [](object)
+- can you print a [](color) colored [](object)
+- can you print a [](size) [](color) colored [](object)
+- can you print a [](color) painted thing
+
+- make a [](color) [](object)
+- make a [](size) [](object)
+- make a [](size) [](color) [](object)
+- make a [](color) thing
+- make a [](color) painted [](object)
+- make a [](size) sized [](object)
+- make a [](size) [](color) painted [](object)
+- make a [](size) sized [](color) [](object)
+- make a [](color) colored [](object)
+- make a [](size) [](color) colored [](object)
+- make a [](color) painted thing
+
+- i want a [](color) [](object)
+- i want a [](size) [](object)
+- i want a [](size) [](color) [](object)
+- i want a [](color) thing
+- i want a [](color) painted [](object)
+- i want a [](size) sized [](object)
+- i want a [](size) [](color) painted [](object)
+- i want a [](size) sized [](color) [](object)
+- i want a [](color) colored [](object)
+- i want a [](size) [](color) colored [](object)
+- i want a [](color) painted thing
+
+- give me a [](color) [](object)
+- give me a [](size) [](object)
+- give me a [](size) [](color) [](object)
+- give me a [](color) thing
+- give me a [](color) painted [](object)
+- give me a [](size) sized [](object)
+- give me a [](size) [](color) painted [](object)
+- give me a [](size) sized [](color) [](object)
+- give me a [](color) colored [](object)
+- give me a [](size) [](color) colored [](object)
+- give me a [](color) painted thing
+
+- produce a [](color) [](object)
+- produce a [](size) [](object)
+- produce a [](size) [](color) [](object)
+- produce a [](color) thing
+- produce a [](color) painted [](object)
+- produce a [](size) sized [](object)
+- produce a [](size) [](color) painted [](object)
+- produce a [](size) sized [](color) [](object)
+- produce a [](color) colored [](object)
+- produce a [](size) [](color) colored [](object)
+- produce a [](color) painted thing
+
+- i need a [](color) [](object)
+- i need a [](size) [](object)
+- i need a [](size) [](color) [](object)
+- i need a [](color) thing
+- i need a [](color) painted [](object)
+- i need a [](size) sized [](object)
+- i need a [](size) [](color) painted [](object)
+- i need a [](size) sized [](color) [](object)
+- i need a [](color) colored [](object)
+- i need a [](size) [](color) colored [](object)
+- i need a [](color) painted thing
+
+
+## intent:inform
+- let it be [](size)
+- let it be [](color)
+- let it be [](object)
+- let it be [](size) and [](color)
+- let it be [](color) and [](size)
+- let it be a [](color) [](object)
+- let it be a [](size) [](object)
+- let it be a [](color) [](size) [](object)
+- let it be a [](size) [](color) [](object)
+
+
+- let it be [](size) sized
+- let it be [](color) painted
+- let it be [](size) sized and [](color)
+- let it be [](color) and [](size)sized
+- let it be [](size) sized and [](color) painted
+- let it be a [](color) painted [](object)
+- let it be a [](size) sized [](object)
+- let it be a [](color) painted [](size) [](object)
+- let it be a [](size) sized [](color) [](object)
+
+- it is [](size)
+- it is [](color)
+- it is [](object)
+- it is [](size) and [](color)
+- it is [](color) and [](size)
+- it is a [](color) [](object)
+- it is a [](size) [](object)
+- it is a [](color) [](size) [](object)
+- it is a [](size) [](color) [](object)
+
+
+- it is [](size) sized
+- it is [](color) painted
+- it is [](size) sized and [](color)
+- it is [](color) and [](size)sized
+- it is [](size) sized and [](color) painted
+- it is a [](color) painted [](object)
+- it is a [](size) sized [](object)
+- it is a [](color) painted [](size) [](object)
+- it is a [](size) sized [](color) [](object)
+
+- it's [](size)
+- it's [](color)
+- it's [](object)
+- it's [](size) and [](color)
+- it's [](color) and [](size)
+- it's a [](color) [](object)
+- it's a [](size) [](object)
+- it's a [](color) [](size) [](object)
+- it's a [](size) [](color) [](object)
+
+
+- it's [](size) sized
+- it's [](color) painted
+- it's [](size) sized and [](color)
+- it's [](color) and [](size)sized
+- it's [](size) sized and [](color) painted
+- it's a [](color) painted [](object)
+- it's a [](size) sized [](object)
+- it's a [](color) painted [](size) [](object)
+- it's a [](size) sized [](color) [](object)
+
+- make sure it is [](size)
+- make sure it is [](color)
+- make sure it is [](object)
+- make sure it is [](size) and [](color)
+- make sure it is [](color) and [](size)
+- make sure it is a [](color) [](object)
+- make sure it is a [](size) [](object)
+- make sure it is a [](color) [](size) [](object)
+- make sure it is a [](size) [](color) [](object)
+
+
+- make sure it is [](size) sized
+- make sure it is [](color) painted
+- make sure it is [](size) sized and [](color)
+- make sure it is [](color) and [](size)sized
+- make sure it is [](size) sized and [](color) painted
+- make sure it is a [](color) painted [](object)
+- make sure it is a [](size) sized [](object)
+- make sure it is a [](color) painted [](size) [](object)
+- make sure it is a [](size) sized [](color) [](object)
+
+- make sure it's [](size)
+- make sure it's [](color)
+- make sure it's [](object)
+- make sure it's [](size) and [](color)
+- make sure it's [](color) and [](size)
+- make sure it's a [](color) [](object)
+- make sure it's a [](size) [](object)
+- make sure it's a [](color) [](size) [](object)
+- make sure it's a [](size) [](color) [](object)
+
+
+- make sure it's [](size) sized
+- make sure it's [](color) painted
+- make sure it's [](size) sized and [](color)
+- make sure it's [](color) and [](size)sized
+- make sure it's [](size) sized and [](color) painted
+- make sure it's a [](color) painted [](object)
+- make sure it's a [](size) sized [](object)
+- make sure it's a [](color) painted [](size) [](object)
+- make sure it's a [](size) sized [](color) [](object)
+
+
+## intent:ask
+- what [](color) is it
+- what [](size) is it
+- what [](object) is it
+- can you repeat please
+- do you want to confirm
+- do you really want to cancel
+## intent:deny
+- deny
+- don't
+- do not
+- it's not
+- it is not
+- i want that
+- i desire that
+- i agree
+- i want that
+- that is fine
+- that is correct
+- that is what i want
+- you understood me
+- that is right
+- that is what i mean
+- want that
+- im ok with that
+- ok its good
+- im good with that
+- ok its fine
+- is good
+- it is fine
+- im ok with this
+- im good with this
+- that's not right
+- that's not good
+- incorrect
+- don't do that
+- sounds bad to me
+- sounds not good to me
+- sounds wrong
+- sounds wrong to me
+- no
+- no not that
+- nope
+- nah
+- not really
+- absolutley not
+- no it's not
+- not what i wanted
+- no i would prefer not
+- i would prefer not
+- not necessary
+- i would prefer not to
+- Just don't do that
+- no you can't
+- This would be probably a bad idea
+- i deny it
+- no i refuse
+- definitely not
+- surely not
+- ideally no
+- sounds bad
+- sounds bad to me			
+- its not ok				
+- its not alright			
+- its not okay
+- no it is not
+- no its not correct
+- bad
+- wrong
+- its bad
+- its not good						
+## intent:confirm
+- yes
+- yep
+- yeah
+- sure
+- absolutely
+- that's it
+- perfect
+- this is it
+- totally approve
+- approve
+- i approve
+- yes i approve
+- yes approve
+- okay
+- settle
+- yes i totally approve
+- should do it
+- it should do it
+- sounds good
+- alright
+- right
+- okay thanks
+- you understood me
+- good
+
+## intent:cancel
+- cancel
+- abolish
+- abort
+- annul
+- break off
+- cut
+- destroy
+- eliminate
+- kill
+- remove
+- repeal
+- rescind
+- would you please cancel
+- would your abolish
+- would your abort
+- would your annul
+- would your break off
+- would your cut
+- would your destroy
+- would your eliminate
+- would your kill
+- would your remove
+- would your epeal
+- would you please rescind
+- can you please cancel
+- can you please abolish
+- can you please abort
+- can you please annul
+- can you please break off
+- can you please cut
+- can you please destroy
+- can you please eliminate
+- can you please kill
+- can you please remove
+- can you please repeal
+- can you please rescind
+
+## intent:unknown
+
+- what software can i use to view epub documents
+- which pdf viewer would you recommend
+- what ides are available for ubuntu
+- what's the best mind mapping software
+- software to read a qr code
+- pdf to word conversion software
+- is there software that can view .dwg files
+- what are some good php editors
+- is there a software utility to adjust screen gamma/brightness/contrast
+- please recommend a hex editor for shell
+- is there lan topology mapping software available in ubuntu
+- is there a tool like wifi analyzer for ubuntu
+- tool for recovering deleted data from a flash drive
+- what's a simple colour picker app for gnome
+- any app that tells me to take regular breaks from working
+- what are some good ascii art generators
+- what are some good gui binary viewers/editors
+- which is the best pdf metadata viewer for ubuntu
+- is there a linux file manager with a proper drop-down tree view (like finder in os x)
+- which application do you recommend for watching tv (dvb)
+- what is the best hdr software
+- what do you use to edit microsoft word documents (docx)
+- what's the best wireframing tool
+- is there any software that will do face recognition in photos
+- applications to replace itunes for ipod synchronization
+- is there an ssh connection manager
+- a light alternative to gnome-system-monitor
+- software to create a video slideshow
+- is there a project management software for ubuntu like microsoft project
+- is there any recovery software available for ext4
+- what blog editor software are available
+- can you recommend a good modern gui download manager (wget wrapper)
+- is there any program for fuzzy string matching which provides a match score
+- are there any hardware diagnostic tools
+- recommendation for regex editor
+- is there a document scanning and archiving software
+- keyboard shortcut to shutdown
+- my system doesn't go shutdown
+- how to troubleshoot slow shutdown
+- how can i shutdown the computer when a certain process ends
+- ubuntu shut down app
+- what does my computer do when i click 'shut down'
+- how do i shut down without the confirmation prompt
+- no action when shutdown pressed
+- what is the right way to shutdown ubuntu using the command line
+- how can i make shutdown not require admin password
+- shutdown in specific way if no-one uses computer
+- what is the command to open the shutdown dialog
+- how to shut down ubuntu by using keyboard
+- shutdown 5:30pm every day
+- upgrading from 11.10 to 12.04
+- how do i upgrade to the release version of 16.04 if i am running beta
+- doubts regarding the 15.04 upgrade (is it inevitable and unavoidable)
+- is any offline upgrade from 13.10 to 14.04 possible
+- upgrading from ubuntu 12.04 to 13.10
+- ubuntu upgrade failed
+- upgrading from 12.04 to 13.10 ( unanswered questions )
+- upgrading to ubuntu 13.10 from ubuntu 13.04
+- is it recommended to upgrade to lubuntu 15.04
+- force upgrade 12.10 to 13.04
+- how to partially upgrade ubuntu 11.10 from ubuntu 11.04
+- problem upgrading ubuntu 9.10
+- is it necessary to upgrade to 15.10 from 14.04
+- how do i update xubuntu 11.10 to xubuntu 12.04 lts
+- why did the upgrade from 11.10 to 12.04 ruin my system
+- problems upgrading from 12.04 to 14.04
+- problems upgrading ubuntu 12.10 to 13.04
+- upgrade from 12.04 to 12.10 without losing files
+- on really old ubuntu 6.06 - how to upgrade
+- do i need to uninstall 10.04 to upgrade to 12.04
+- do i need to reinstall everything to upgrade from 13.10 to 14.10
+- update-manager: upgrade to 15.04 rather than 16.04
+- upgrading 16.04 to 16.04.1
+- upgrading ubuntu server 9.10 to 10.04
+- ho do i update to 13.04 from the beta
+- how to upgrade from 12.10 to 14.04
+- upgrading from 10.10 to 11.04 how much space is needed
+- do i need to backup my 12.04 system to upgrade to 12.04.1
+- cannot upgrade from 12.04lts to 14.04
+- upgrade 10.10 to 11.04
+- how to upgrade from 14.04 lts or 15.10 to 16.04 from terminal
+- how to upgrade from 16.04 lts to 16.04.1 lts
+- upgrading from 10.04 to 11.10
+- how can i upgrade to ubuntu 14.04 final from 14.04 beta correctly
+- is there an upgrade procedure from 12.04 lts to 14.04 lts
+- upgrade from 9.10 to 11.04
+- how to upgrade ubuntu 12.04 to 14.04 if i have dual boot with windows 7
+- wubi device /dev/loop0 full. how to get more space
+- using 12.04 can i compile packages with gcc for 10.04
+- removing recently used items in 12.04
+- upgrading from 11.04 (32bit) to 12.04 (64bit)
+- how is rm command different from the delete button
+- in unity how do i see the details of a given launcher
+- how to provide user permission to read and write on /dev/sdax what is the syntax
+- security enhancements prevent mounting /dev/sdb1
+- how do i show grub when resuming from suspend
+- how to install a lexmark z600 series printer
+- cannot setup hp all in one dj3630
+- how to add a network printer on ubuntu 15.10
+- cannot install printer driver epson l210
+- how do i install dell 2150cdn printer
+- installing epson xp-424 wireless printer
+- installing epson l355 on ubuntu 14.04
+- how do i install the hp f4280 printer
+- how to install brother dcp-8110dn laser printer on ubuntu
+- how to install a canon mf8040cn printer on ubuntu 12.04
+- how do i install canon mf8000c printer in ubuntu 15.10
+- how to install canon lbp330 in lts 16.04
+- install printer lexmark x4690 (ubuntu 12.04)
+- how to record my screen
+- how can i highlight or annotate pdfs
+- is it worth upgrading from 12.04 lts to 13.04
+- upgrade to 12.04 64 bit
+- how to upgrade ubuntu 14.04.1 to 14.04.2
+- upgrading from ubuntu 14.04 to 15.04
+- how to upgrade from ubuntu 15.04 to 15.10
+- upgrade 12.04 to 12.10 using startup disk
+- how to upgrade from 11.10 to 12.04 when you've got a problem
+- update 11.04 to 12.04 with livecd
+- how to upgrade ubuntu 9.10 to 12.10 via terminal
+- how to upgrade from ubuntu 10.10 to 11.04
+- no matter what i do ubuntu 15.04 does not recognize hp laserjet 1020
+- how to setup hp printer/scanner on ubuntu
+- how do i setup my hp c4140 printer wirelessly
+- how to setup wireless printing from a printer connected via usb on ubuntu server 12.10
+- how can i install a pantum 2502w laser printer on ubuntu
+- install canon mp560 ubuntu 15.04
+- how to install a brother mfc-5890cn network printer
+- how do i install drivers for a konica minolta 200
+- how do i install drivers for the panasonic mb1900cx all-in-one printer/scanner
+- how to install canon lbp2900b printer in 14.04 lts  i tried the method for lbp2900 but it didnt work
+- any command line calculator for ubuntu
+- extracting embedded images from a pdf
+- what to use to quickly cut audio/video
+- torrent client for the command-line
+- mysql gui tools
+- what developer text editors are available for ubuntu
+- what screenshot tools are available
+- which programs can i use to edit pdf files
+- is there a lightweight tool to crop images quickly
+- what irc clients are available
+- what new games are available for ubuntu in 2011
+- upnp / dlna (client) player recommendations
+- what scientific plotting software is available
+- can you recommend a password generator
+- what tools do you use to monitor a web server
+- what is a good mongodb gui client
+- password management applications
+- is there an application for reading mobi files
+- shut down without extra question
+- how to shutdown computer when users are logged on
+- what is the proper terminal-way to shutdown
+- how can i automatically shutdown the system after a specific time
+- hotkey to shut down from login screen
+- how to shutdown the computer after xsession ends
+- how can one shutdown a pc using the keyboard
+- how can i enable shutdown verbosity
+- are there any keyboard shortcuts to shutdown
+- shutdown after a certain time
+- shutdown problem in ubuntu 16.04
+- how do i fix a shutdown problem
+- what graphical utility can i use for ubuntu auto shutdown
+- i want to go marienplatz
+- when is the next train in muncher freiheit
+- when does the next u-bahn leaves from garching forschungszentrum
+- from olympia einkaufszentrum to hauptbahnhof
+- when is the next train from winterstra 00dfe 12 to kieferngarten
+- when is the next rocket from winterstra 00dfe 12 to kieferngarte
+- can you find a connection from garching to hauptbahnhof
+- how to get from untere strass 00e4cker 21 to fr 00f6ttmaning
+- how i can get from marienplatz to garching
+- connection from boltzmannstra 00dfe to kieferngarten
+- how to get from bonner platz to freimann
+- when is the next s-bahn leaving at garching
+- how do i get from oez to hbf
+- how to get from winterstrasse 12 to fr 00f6ttmaning
+- how do i get from garching forschungszentrum to pasing
+- theresienstra 00dfe to assling
+- how can i get from theresienstra 00dfe to munich east
+- when does the next bus starts from garching
+- from quiddestra 00dfe to garching
+- can you find a connection from kurt-eisner-stra 00dfe to garching forschungszentrum
+- can you find a connection from quiddestra 00dfe to garching forschungszentrum
+- when does the next train leaves at garching
+- from hauptbahnhof to garching
+- how can i get to glockenbachviertel from garching forschungszentrum
+- how i can get from garching to nordfriedhof
+- how can i get to glockenbachviertel from garching forschungszentrum
+- when is the next train leaving in garching forschungszentrum
+- how can i get from moosach to quiddestra 00dfe
+- how can i get from moosach to poccistra 00dfe
+- how can i get from kurt-eisner-stra 00dfe to garching forschungszentrum
+- how can i get from moosach to quiddestra 00dfe
+- how can i get from moosach to odeonsplatz
+- when does the next bus starts at garching
+- what's the shortest way from quiddestra 00dfe to odeonsplatz
+- when is the next bus from ostbahnhof
+- how i can get from garching to neuperlach sued
+- when is the next train in munchner freiheit
+- how i can get from marienplatz to garching
+- how do i get from poccistra 00dfe to laim
+- i want to go garching from marienplatz
+- how i can get from marienplatz to garching
+- how can i get from hauptbahnhof to odeonsplatz
+- prinzregentenplatz to rotkreuzplatz
+- i want to go to garching from marienplatz
+- next train from garching
+- from prinzregentenplatz to rotkreuzplatz
+- when is the next subway from garching forschungszentrum
+- from garching to klinikum
+- from garching foschungszentrum to odeonsplatz
+- next bus in garching
+- when does the train leaving in garching forschungszentrum
+- next subway from garching forschungszentrum
+- tell me the next bus from garching
+- next bus from garching, please.
+- next bus from garching
+- next bus from central station
+- from garching to marienplatz
+- next bus from garching.
+- connection from garching to hauptbahnhof
+- when does the next bus departs from garching
+- find connection from hauptbahnhof to odeonsplatz
+- when does the next u-bahn departs at garching forschungszentrum
+- when does the next u-bahn departs at garching
+- when does the next subway departs at garching
+- when is the next train in garching
+- how to get from m 00fcnchner freiheit to garching 
+- implerstra 00dfe to ostbahnhof
+- how can i get from hauptbahnhof to odeonsplatz
+- how can i go from garching forschungszentrum to prinzregentenplatz
+- how can i get from mangfallplatz to garching
+- how can i get to hohenlindenerstra 00dfe
+- harthaus to hackerbr 00fccke
+- how can i get from feldmoching to garching forschungszentrum
+- from marienplatz to petershausen
+- when is the train from garching to marienplatz
+- neufahrn to garching
+- how can i get from mangfallplatz to garching
+- how can i get to hohenlindenerstr
+- when is the next bus from garching forschungzentrum
+- how do i get from spitzingplatz to poccistra 00dfe
+- how can i get from garching forschungszentrum to marienplatz
+- how can i get from klinkum to marienplatz
+- how to get from alte heide to marienplatz
+- next train from muenchen freicheit
+- depart in garching, i assume
+- when does the next u-bahn depart at garching
+- the next bus from garching forschungzentrum
+- when is the next train in alte heide
+- or depart from garching
+- hello munich city bot how do i get from m 00fcnchner freiheit to scheidplatz
+- how can i get from garching forschungszentrum to prinzregentenplatz
+- how can i get from neufahrn to garching
+- take me to the airport
+- when does the next u6 leave from garching forschungszentrum
+- how i can get from munchner freiheit to nordfriedhof
+- from harthaus to hackerbr 00fccke
+- when is the train from garching
+- what is the next train from m 00fcnchner freiheit
+- how can i get from theresienstrasse to garching forschungszentrum
+- how can i get from m 00fcnchner freiheit to odeonsplatz
+- from garching to hauptbahnhof
+- how can i get from garching to odeonsplatz
+- start: neufahrn end:garching
+- how can i get from studentenstadt to garching
+- when is the next bus from garching
+- take me from hauptbahnhof to odeonsplatz
+- what's the shortest connection between quiddestra 00dfe and odeonsplatz
+- what is the cheapest connection between quiddestra 00dfe and hauptbahnhof
+- what's the shortest way between hauptbahnhof and odeonsplatz
+- how can i get from garching to m 00fcnchner freiheit as fast as possible
+- what's the cheapest way from neuperlach s 00fcd to lehel
+- how can i get from neuperlach zentrum to karlsplatz as fast as possible
+- could you give me the fastest connection between bruderm 00fchlstra 00dfe and alte heide
+- is there a train from neuperlach zentrum to garching at 3 pm
+- can you find a connection from olympiazentrum to lehel at 2 pm
+- i need a connection from harras to karl-preis-platz at 8 am.
+- in need to be at hauptbahnhof at 1 pm, can you search a connection from garching forschungszentrum
+- i need to be in garching at 9
+- can i take a bus from quiddestra 00dfe to hauptbahnhof
+- can you find the shortest way from moosfeld to milbertshofen
+- how can i get to neuperlach s 00fcd from garching forschungszentrum
+- can you find a bus from quiddestra 00dfe to lehel
+- is there a tram from karlsplatz to lehel
+- is there a bus from garching to moosach at around 5
+- is there a bus from odeonsplatz to hauptbahnhof at 3 pm
+- can you tell me the cheapest way from garching forschungszentrum to quiddestra 00dfe
+- how can i get to quiddestra 00dfe
+- when does the next bus leaves from hauptbahnhof
+- how can i get from garching to hauptbahnhof
+- how can i get from kurt-eisner-stra 00dfe to garching
+- when the next train in garching,forschungszentrum is leaving
+- what is the next connection from garching forschungszentrum to odeonsplatz
+- how can i get from mossach to garching forschungszentrum
+- how can i get from garching forschungszentrum to odeonsplatz
+- how can i get from garching, forschungszentrum to odeonsplatz
+- how can i get from garching forschungszentrum to kurt-eisner-stra 00dfe
+- how can i get to boltzmannstra 00dfe from quiddestra 00dfe
+- when does the next train departs from quiddestra 00dfe
+- when the next train in garching forschungszentrum is leaving
+- when is the next u6 leaving from garching
+- when does the next train leave from garching forschungszentrum
+- when is the next u6
+- when is the next subway leaving from garching
+- when the next train in garching is leaving
+- when is the next train leaving in garching
+- when does the next train leaves from odeonsplatz
+- when does the next train leaves from quiddestra 00dfe
+- when is the next train
+- when does the next bus leaves at garching forschungszentrum
+- when does the next train leaves
+- when does the next bus leave in garching
+- when does the next s-bahn leaves from hauptbahnhof
+- when does the next subway departes from odeonsplatz
+- show me the next bus from garching
+- when does the next tram starts from hauptbahnhof
+- when will the next u-bahn depart from garching forschungszentrum
+- show me the next bus from michaelibad.
+- when does the next train starts at sendlinger tor
+- hey bot, when does the next bus starts at garching
+- when does the next bus leaves at garching
+- when is the bus from quiddestra 00dfe
+- when can i get a bus at mariahilfplatz
+- when does the next bus leaves at romanplatz
+- when does the bus to r 00f6blingweg starts
+- next bus from quiddestra 00dfe
+- when is the next bus leaving from garching
+- when is the train leaving in garching
+- when is the train leaving in garching
+- how can i get from garching to odeonsplatz
+- when is adrians next subway leaving at garching forschungszentrum
+- how can i get from olympiazentrum to hauptbahnhof
+- how can i get from quiddestra 00dfe to boltzmannstra 00dfe
+- how can i get from moosach to garching forschungszentrum
+- can you give me a connection from garching to odeonsplatz
+- when is the next train from garching
+- when comes the next train
+- when is the next train in nordfriedhof
+- when does the next train come at garching forschungszentrum
+- when is the next train from nordfriedhof to garching forschungszentrum
+- i want to travel from garching to odeonsplatz
+- how can i get to sendlinger tor
+- how do i get to untere strauss 00e4cker
+- how can i get from garching to garching
+- how can i get from garching to sendlinger tor
+- how can i get from garchingto garching
+- when is the next train from garching
+- how do i get from marienplatz zu garching
+- how can i get to milbertshofen from garching
+- when is the next train to garching
+- how can i get from garching to milbertshofen
+- when does the next rocket leaves from garching forschungszentrum
+- connection from untere stra 00df 00e4cker 21 to kieferngarten
+- how to get from untere strass 00e4cker 21 to fr 00f6tmaning
+- how to get from untere strassaecker 21 to fr 00f6tmaning
+- when is the next train from untere stra 00dfaecker 21 to kieferngarten
+- when is the next train from untere stra 00dfaecker 21, garching to kieferngarten
+- from garching to perlach
+- how to get from garching to perlach
+- how to get from bonnerplatz to freimann
+- when is the next train in nordfriedhof
+- when is the next train in m 00fcnchner freiheit
+- connection from hauptbahnhof to odeonsplatz
+- how do i get from olympia einkaufszentrum to hauptbahnhof
+- when is the next bus in garching forschungszentrum
+- how can i get from garching to marienplatz
+- from garching to studentenstadt
+- share my location with hillary's sister
+- send my current location to my father
+- share my current location with jim
+- send my location to my husband
+- send my location
+- always share my location with lori
+- share my location with my boyfriend until i get home
+- send my current location to anna
+- share my location with steve for 3 days
+- share my location to mum until i get to school
+- share my location with my office manager until noon
+- share my location with my uber driver
+- share my location with robert for the next 10 min
+- share my location with jo until 8pm
+- share my current location
+- send my current location to the friends i'm meeting with
+- what's the best hotel between soho grand and paramount hotel
+- what's the cheapest between the two restaurants the closest to my hotel
+- what's the closest between jo's and lori's place
+- is my airbnb closer than john's hotel
+- is the view more expensive than masa
+- what's the best between le bain and marquee
+- is vertigo sky lounge more expensive than the bar i usually go to in new york
+- i'd like to know whether galli is more expensive than rao's
+- is my favorite bar better than the donut pub
+- is waldorf astoria more luxurious than the four seasons
+- what's the cheapest place between my favorite bar and employees only
+- is my hotel in nyc for this week better than the hotel i stayed in when i was in chicago
+- is soho grand better than paramount
+- what's the cheapest place between galli and the smile
+- is three dots and a dash cheaper than lost lake
+- what is the closest theatre between belasco theatre and majestic theatre
+- what is the most expensive restaurant between per se and rao's
+- which restaurant is the cheapest, shake shack or five guys 
+- what is the cheapest restaurant between balthazar and lombardi's
+- show me photos of the bar i'm going to for rand's birthday
+- does the view has reserved parking
+- how much is it to go to the top of empire state building
+- give me the phone number of the place i'm going to today
+- when is rao's the most crowded
+- what's the phone number of the dead rabbit
+- is there a parking at my hotel
+- how crowded is per se right now
+- what time does pouring ribbons open tonight
+- how crowded is the bar near my place
+- is there wifi at the coffee place where i'm meeting with john
+- what's the address of the place where i was yesterday night
+- is the swan oyster depot cash-only
+- is there a wifi at the smile
+- can i pay by credit card at boom boom room
+- what's the phone number of my hotel in chicago next month
+- is pates et traditions cash only
+- are there good tips to know when going to the modern
+- what's the price range for a dinner at galli
+- how far is frying pan from the highline ballroom
+- who is playing tonight at the madison square garden
+- what's planned at slim's tonight
+- show me photos of mondrian soho
+- what time does employees only close
+- i want to see photos of the place we're going to tonight
+- what's happening this week at smalls jazz club
+- is there a children's menu at the standard grill
+- show me the butcher's daughter's menu
+- give me the address of the biggest wallmart in boston area
+- where's irving plaza located
+- how expensive is the best french restaurant near work
+- how far is the nomad bar
+- how much does it cost to go to disneyland
+- how far am i from the guggenheim museum
+- is there wifi at my airbnb in london next week end
+- are there activities for children at hard rock cafe
+- does the butcher's daughter serve vegetarian food only
+- can i park at gershwin theatre
+- give me the address of state grill and bar
+- show me the menu of the restaurant i booked for tonight
+- what are the opening hours of please don't tell
+- what's lori's home address
+- where can i get tickets for a concert at blue note
+- are there some tips to know when going to battery park
+- how much is a dinner at la chine
+- give me steve's address in manhattan
+- does cafe gitane have wifi
+- what's today's menu at the water club
+- when is it the quietest at good luck bar
+- is there valet parking at kang ho dong baekjeong
+- show me the cheapest cocktail bar near the hotel my sister stays in
+- find me a restaurant similar to the one i went to yesterday evening
+- show me the closest restaurants with all you can eat buffets
+- find me a 3 stars restaurant in los angeles
+- i want to eat some fried chicken. any suggestions
+- what's the closest pizza restaurant around here
+- show me the top 5 french restaurants in manhattan
+- where can i eat the best burger in soho
+- show me veggie restaurants nearby
+- find me a salad bar i can go to for my lunch meeting
+- what's the best irish pub in hell's kitchen
+- find a store near sia's place where i can buy champagne
+- is there a place similar to per se in williamsburg
+- find the top 3 family attractions in hollywood not far from angie's place
+- find the best restaurants near my airbnb that serve brunch all day
+- find me a romantic restaurant that serves good expensive wine near my girlfriend's work
+- show me the best museums to visit near my london airbnb
+- find me a brunch spot in lower manhattan
+- find me a coffee place similar to starbucks that has gluten free food
+- find me the cheapest seafood restaurant near the golden bridge
+- find me a place that sells burritos in south harlem
+- what are the fanciest clubs in new york
+- where is the nearest starbucks
+- find me a good expensive japanese restaurant near work
+- find a good fried chicken restaurant that is not a fast food
+- find me the closest theatre for tonight
+- show me the parks with swings and pony rides around my aunt's place
+- find me the finest sushi restaurant in the area of my next meeting
+- find me a table for four for dinner tonight
+- book a table for today's lunch at eggy's diner for 3 people
+- book a table at a restaurant near times square for 2 people tomorrow night
+- book a table for friday 8pm for 2 people at katz's delicatessen
+- book a table at joan's on third for my family reunion on saturday
+- i'd like a table in a peaceful restaurant around times square
+- book a table at seven hills for 6 people with a nice view
+- book a table for 6 people at mr donahue's for tomorrow's lunch
+- book a restaurant for 6 near my morning meeting tomorrow at 1pm
+- i want reservations to grab brunch for 5 in hells kitchen tomorrow
+- book a table for sophie and me at the red lobster tonight
+- book a table for 3 people at a restaurant that serve tapas and wine for tonight
+- book a table near my london hotel next wednesday evening
+- book me a table for 8:45pm at a restaurant with wifi near my airbnb
+- figure out if i can get a reservation at ma peche after the concert
+- book a table for four people at tapestry for 9pm tonight
+- get me a spot at ippudo for lunch
+- book a table at the best chinese restaurant in town for today's lunch
+- book a restaurant for brunch next sunday
+- book me a table for 2 people at the sushi place next to the show tomorrow night
+- make a reservation for 4 people for today's lunch at daniel
+- book a table for four people at mondrian soho for 8pm
+- get me a table at din tai fung for the 4th of december at 12:30
+- get me a table at a restaurant nearby that is not too crowded for tomorrow evening
+- find me an outdoor table at five leaves for 3
+- get me a table at delmonico's next monday at 8pm
+- we are a party of 4 people and we want to book a table at seven hills for sunset
+- i need reservations at quince at 9:30
+- make a reservation at delmonico's on saturday 8pm for 10 people
+- book a table at an italian restaurant nearby for dinner with 5 people
+- book a table at the nearest sushi restaurant for 2 for 1pm
+- book me a table for 4 at delmonico's around 8pm this friday
+- is there a table for boozy brunch at around 11 nearby
+- need a table for lunch to eat steak near penn station
+- get me a table at a restaurant near emily's place for tomorrow 9pm
+- book a table for 5 people at the restaurant i'm used to going to every week
+- make a reservation for breakfast at batter & berries tomorrow
+- get me a place near chelsea with good brunch cocktails tomorrow at 10
+- book a table for two people at a restaurant near work
+- table for a group of 12 near west village tomorrow go
+- i want a reservation for 5 at alinea
+- make a reservation for 4 people for today's lunch at a starbucks nearby
+- get me a table at a good deli near mission dolores park for lunch
+- please book a table at delmonico's this evening for 3 at 8pm
+- i need a reservation for five people at galli for friday night
+- can you make a reservation at a lebanese restaurant nearby, for lunch, party of 5
+- see if there's a table outside for noon at that fried chicken restaurant i like
+- book a table at chops lobster bar for 5 people at 7:30pm
+- i want to find a reservation at an old red sauce joint at 6
+- book a table for 3 people at the restaurant i went to last week
+- make a reservation for 3 at the finest restaurant in the area where i was yesterday afternoon
+- i want a table in a good japanese restaurant near trump tower
+- table for two at nobu new york tonight
+- book a table at the standard grill for four people for the day after tomorrow at 8:30pm
+- book for 4 people at per se for tuesday evening
+- i want a table for friday 8pm for 2 people at katz's delicatessen
+- need a table for 6
+- i want a reservation to get drinks after class tomorrow for 10
+- book a table at an american restaurant for thanksgiving
+- book a table at galli for 6 people tonight
+- book for 4 at nobu for tomorrow evening
+- book a table for four people at la chine for the 11th at 8pm
+- book a table at saddle peak lodge for my diner with friends tonight
+- can i have a table at the russian tea room for 4pm
+- book a table for 8 at tavern on the green for 8 pm
+- need a table for 12 in 3 hours
+- book a table for me and my girlfriend in a romantic restaurant for valentine's day
+- need a reservation for brunch for 5 in williamsburg near the bridge
+- book me and my sister a spot at the milk bar place near the hotel she stays at in midtown
+- book me a table for 4 at delmonico's
+- get a taxi to emmit's irish pub
+- get me a ride to the airport
+- order a taxi for tomorrow 8am
+- get a cab at my place right now
+- order a taxi
+- i need a taxi for 6 to go to audrey and sam's wedding
+- book an uber to my next meeting
+- i need a taxi to catch my flight tomorrow morning
+- book a cab
+- book a taxi to go to sebastian's
+- find a taxi
+- i need a cab to go to work
+- i need a taxi in 5 minutes at 36 5th avenue
+- book an uber to home
+- can you find me a ride at this hour
+- order a cab for 6 people
+- i need an uber right now
+- book me a ride at my current location
+- order a cab at my mother's place to go to the la stadium
+- get an uber to go to my dinner tonight
+- book a lyft car to go to 33 greene street
+- i want a taxi right now
+- is there any uber around
+- get a taxi to the nearest japanese restaurant
+- order a cab at shake shack to go to the empire state building
+- get a lyft car at scott's place
+- how do i go to montauk avoiding tolls
+- directions to disneyworld avoiding traffic
+- show me the way to go to 33 greene street
+- give me directions to my parents' place avoiding toll roads
+- show me directions to my next meeting avoiding traffic
+- quickest directions to go pick up my son at soccer practice
+- show me directions to my yoga retreat avoiding the highway
+- bicycling directions to millenium park
+- directions to la guardia airport using waze
+- cycling directions to chelsea market
+- cycling directions to my surf lesson at 10am
+- show me the fastest itinerary to my airbnb on a friday night
+- driving directions to tavern on the green
+- transit directions to barcelona wine bar
+- navigate to palo alto avoiding traffic
+- directions to jfk airport at 7am
+- how do i go back home
+- walking directions to my christmas party with citymapper
+- get me directions to john's place if i leave at 6pm
+- walking directions from home to my halloween party stopping by a wine store
+- directions to tulsa with road 66
+- show me the way to go to work
+- give me transit directions from grand central to brooklyn bridge
+- navigate me to empire state building using the shortest way
+- show me walking directions to moma
+- get me directions to las vegas avoiding toll roads
+- show me directions to jersey city avoiding the highway
+- show me the directions from the la county museum to santa monica
+- directions to my beach house avoiding tolls
+- show me directions to my hotel
+- show me the fastest itinerary to go to williamsburg
+- fastest way to go to my next meeting
+- directions to joe's pub
+- i want to go to boston with the quickest itinerary
+- show me the way to rand's birthday party by car
+- share my eta with mary jane
+- send my eta to the guy i'm meeting with
+- share my time of arrival with my airbnb host
+- share my arrival time with juan carlos
+- share my eta with jo
+- share my estimated time of arrival with lily
+- send my time of arrival to nina
+- tell my friends what time i'll get there
+- share with franz my eta
+- send a message to john to tell him when i get there
+- send my eta to my girlfriend
+- tell valery how long it's gonna take to join her
+- share my eta with the guy who just called me
+- share my eta
+- share my eta with my data scientist
+- share my estimated time of arrival with my mother
+- send a message to michael with my eta
+- share my eta with the snips team
+- send my eta to the girl i'm supposed to have dinner with
+- send a message to montgomery with my arrival time
+- send my eta to the guests of my apartment
+- send a message to my boss with my eta
+- should i expect traffic from here to kennedy international airport
+- any traffic problems to go to my dinner
+- any accidents from my airbnb to golden gate bridge
+- is there traffic from work to gym
+- is there traffic on my way to the gym
+- how's traffic to go to my hotel
+- how's the road on the 11th avenue
+- i want to know if there is traffic to go to my upcoming meeting
+- is there traffic jam on 6th avenue
+- any accidents to expect to go to my cousin's place
+- how's the traffic from here to jo's place
+- is there traffic on 8th avenue and west 14th street
+- shoud i expect traffic between broadway and prince street
+- is there traffic on the us 50 portion i'm going to take to go to my client meeting
+- are there any accidents from home to work
+- should i expect any traffic to go meet my friends tonight
+- is there traffic jam from here to brooklyn bridge
+- how's the traffic from here to central park
+- is the road to work congested
+- is there any traffic on us 20
+- show me the forecast for new orleans
+- will it be cloudy at my facebook event
+- what's the weather like at my parents'
+- is the weather good for a walk today
+- is it cold outside 
+- is it going to rain tomorrow
+- what's the weather like at jo's place right now
+- can i walk to my next meeting
+- show me the weather forecast for my upcoming trip to los angeles
+- will it rain in the next 30 minutes
+- what's the weather like in paris, new york and chicago
+- what's the weather forecast for the rest of the week
+- what's the weather like from new york to boston
+- how windy will it be tomorrow
+- should i have an umbrella with me tomorrow
+- what will the weather be like at jo's place this afternoon
+- can i go hiking this afternoon
+- what is the temperature tomorrow morning
+- is it cold outside
+- should i take an umbrella to walk to my dinner
+- what will the weather be like from home to jo's place
+- what's the weather like in 3 days
+- what will the weather be like from 8am to 2pm in central park
+- what will the weather be like tomorrow morning
+- can i take my bike to go to work today
+- what will the weather be like in london next week
+- is it windy today
+- what's the weather like at work
+- is it going to be sunny next week
+- i want the weather in paris
+- it is a beautiful day for a walk
+- what's it like outside
+- what will the weather be like when i land in paris
+- is it raining right now
+- what will the weather be like at my airbnb this week end
+- whats the weather like in bordeaux
+- what's the weather like near my upcoming event
+- will it rain tomorrow near my all day event
+- i need the weather at jo's place around 8 pm
+- what will the weather be like when i get out of my afternoon meeting
+- show me the forecast for my upcoming weekend
+- should i take a rain coat today

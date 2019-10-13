@@ -1,0 +1,481 @@
+ID_Espai,Nom_Espai,Nom_Distri,C_Distri,Nom_Barri,C_Barri,Fase,Àrea,Mes,N_visites,Exc,B_dom,B_ind,Vol
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,2,1,0,1,0,0
+2,"Carrer de la Maquinista, 40",Ciutat Vella,1,la Barceloneta,3,Fase 1,1015.35,2,1,0,0,0,0
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,2,1,0,1,0,0
+4,"Carrer de Sant Pere Mitjà, 88",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 1,267.8,2,1,0,1,0,0
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,2,1,0,2,0,2
+6,Carrer dels Escudellers (Passatge del Rellotge),Ciutat Vella,1,el Barri Gòtic,2,Fase 1,223.98,2,1,0,1,0,0
+7,Carrer Floridablanca,Eixample,2,Sant Antoni,10,Fase 1,3900.86,2,3,0.49,2.67,2.33,0
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,2,3,1.88,0.67,0,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,2,3,5.33,0.67,0,0
+10,Passatge Utset,Eixample,2,la Sagrada Família,6,Fase 1,687.66,2,3,0.15,1.33,0,0
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,2,3,1.5,0.67,0,0.67
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,2,3,0.19,1.33,0,0
+13,Carrer 26 de Gener de 1641,Sants-Montjuïc,3,Hostafrancs,15,Fase 1,1132.9,2,3,1.5,2.67,0.33,1.67
+14,Carrer d'Elkano,Sants-Montjuïc,3,el Poble Sec,11,Fase 1,3996.56,2,3,1.4,5,2.67,0.33
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,2,4,0.24,0,0,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,2,3,0.86,2,0,0
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,2,3,0.33,0.33,0,0.67
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,2,3,0.96,0.33,0,0
+19,Carrer Guitard,Les Corts,4,les Corts,19,Fase 1,2939.53,2,3,0.17,9,0.67,0
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,2,3,0.82,0.33,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,2,3,0.47,0.67,0,0
+22,Jardins de Joan Altisent,Les Corts,4,les Corts,19,Fase 1,2615.72,2,3,2.68,0.67,0.67,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,2,3,0.74,0.67,0,0
+24,Jardins del Clot d'en Salvi,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1,1924.65,2,3,0.78,0,0,0
+25,Carrer d'Hurtado,Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 1,1098.88,2,2,1.18,0.5,0,0
+26,Jardins de la biblioteca Clarà,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1,1139.68,2,2,5.88,0,0,2.5
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,2,2,4.32,0.5,0,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,2,2,0.51,0,0.5,0
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,2,2,0.27,0.5,0,0
+30,Turó Parc,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1,848.59,2,2,0,0,0,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,2,2,0,1.5,0,0.5
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,2,3,1.42,1.33,0,0
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,2,3,1.88,0.67,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,2,3,1.26,1.33,0.33,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,2,2,0,1.5,0,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,2,2,1.05,4.5,0,0
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,2,3,0.26,2.67,0,0
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,2,2,0.07,0,0,0
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,2,3,0.28,1,0,0
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,2,3,0.52,0,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,2,3,0.44,0.67,0.33,0
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,2,3,0.68,0.33,0,0
+43,Carrer de la Florida,Nou Barris,8,la Prosperitat,52,Fase 1,287.12,2,3,0,4.33,0.67,1
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,2,3,0,3,0,0
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,2,3,0,6,2.67,1
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,2,3,0,5.33,6,0.67
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,2,1,0,2,0,0
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,2,1,0,2,0,0
+49,Carrer de Kobe,Sant Andreu,9,la Sagrera,61,Fase 1,4338.01,2,3,1.13,1.33,0,0.67
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,2,3,0,2.33,2.67,3.33
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,2,3,0.08,4,0,0
+52,Plaça del Cep,Sant Andreu,9,el Congrés i els Indians,62,Fase 1,1829.34,2,3,3.23,0.67,1.33,0
+53,Plaça Islàndia,Sant Andreu,9,Navas,63,Fase 1,2693.2,2,3,0.56,0.67,0.33,0
+54,Plaça Jardins de Pepa Colomer,Sant Andreu,9,la Sagrera,61,Fase 1,4854.17,2,3,1.63,0.33,0.33,0.33
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,2,2,0.19,5,3,0.5
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,2,2,0.09,5.5,7.5,5
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,2,2,0.72,4,0.5,0
+58,Parc del Poblenou,Sant Martí,10,el Poblenou,68,Fase 1,6782.42,2,1,0.35,1,1,0
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,2,2,4.54,0,0,0
+60,Plaça de Dolors Canals,Sant Martí,10,Provençals del Poblenou,71,Fase 1,11694.04,2,2,0.27,1.5,0,0
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,3,4,0,3.75,3,0.25
+2,"Carrer de la Maquinista, 40",Ciutat Vella,1,la Barceloneta,3,Fase 1,1015.35,3,4,0.5,1.25,1,0.5
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,3,5,0.4,0.4,0.8,2
+4,"Carrer de Sant Pere Mitjà, 88",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 1,267.8,3,4,0.75,3,0,1
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,3,3,0.67,0.67,0,0.33
+6,Carrer dels Escudellers (Passatge del Rellotge),Ciutat Vella,1,el Barri Gòtic,2,Fase 1,223.98,3,4,0,0.75,0,0.25
+7,Carrer Floridablanca,Eixample,2,Sant Antoni,10,Fase 1,3900.86,3,4,3,1.75,1,1.25
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,3,4,5.5,0.25,0,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,3,4,10.5,0.5,0.25,0
+10,Passatge Utset,Eixample,2,la Sagrada Família,6,Fase 1,687.66,3,4,0,0,0,0
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,3,4,2.5,0.5,0,1
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,3,4,11.75,0.25,0,0.25
+13,Carrer 26 de Gener de 1641,Sants-Montjuïc,3,Hostafrancs,15,Fase 1,1132.9,3,4,0.25,1.75,0.5,1.75
+14,Carrer d'Elkano,Sants-Montjuïc,3,el Poble Sec,11,Fase 1,3996.56,3,4,3.5,6.5,1.25,0.75
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,3,4,0.25,0.25,0,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,3,4,11.75,2.5,0.5,1.5
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,3,5,2.4,1.8,0,0
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,3,4,7.5,0,0,0
+19,Carrer Guitard,Les Corts,4,les Corts,19,Fase 1,2939.53,3,4,0.25,4,1.75,1.75
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,3,4,3,1,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,3,4,10.75,0.25,0,0.25
+22,Jardins de Joan Altisent,Les Corts,4,les Corts,19,Fase 1,2615.72,3,4,8.25,1,0,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,3,4,4.25,0,0,0
+24,Jardins del Clot d'en Salvi,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1,1924.65,3,4,0.75,0,0,0
+25,Carrer d'Hurtado,Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 1,1098.88,3,4,0.5,0.25,0,0
+26,Jardins de la biblioteca Clarà,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1,1139.68,3,5,13.8,0.2,0,0
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,3,5,52.8,0.4,0,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,3,5,0.6,0.4,0,0
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,3,4,3.25,0,0,0
+30,Turó Parc,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1,848.59,3,5,0,0,0,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,3,4,0,3.25,1,0.25
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,3,4,17.5,1.25,0,0
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,3,4,7.25,0.75,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,3,4,3.25,0.25,0,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,3,4,0,2.25,1.25,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,3,4,5,1.75,0.5,0.25
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,3,4,5.75,1.25,1.5,1
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,3,4,3,0,0,0.25
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,3,4,14.25,0.5,0,0
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,3,4,3.5,0.25,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,3,3,0.67,1,0.67,0.33
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,3,4,9.75,0,0,0
+43,Carrer de la Florida,Nou Barris,8,la Prosperitat,52,Fase 1,287.12,3,3,0,2.67,0.33,0.67
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,3,4,0.5,1.25,1.5,1.5
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,3,4,5.25,6.75,0.5,2.75
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,3,4,2.5,5.25,3,1
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,3,4,1.75,4.5,0.25,1
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,3,5,2,1.8,0.4,0.6
+49,Carrer de Kobe,Sant Andreu,9,la Sagrera,61,Fase 1,4338.01,3,4,8.25,0.25,0,0
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,3,4,0.5,0.75,0,0.25
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,3,4,0.5,0.25,0,0
+52,Plaça del Cep,Sant Andreu,9,el Congrés i els Indians,62,Fase 1,1829.34,3,4,12,0,0,0
+53,Plaça Islàndia,Sant Andreu,9,Navas,63,Fase 1,2693.2,3,4,10,2.5,1.75,0
+54,Plaça Jardins de Pepa Colomer,Sant Andreu,9,la Sagrera,61,Fase 1,4854.17,3,4,16.75,0.25,0,2
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,3,5,3,7.6,0.8,0.4
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,3,3,2.67,10,2,3.67
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,3,5,14.4,2.6,0,0.2
+58,Parc del Poblenou,Sant Martí,10,el Poblenou,68,Fase 1,6782.42,3,5,3.8,0.6,0,0
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,3,4,16.25,0.5,0,0
+60,Plaça de Dolors Canals,Sant Martí,10,Provençals del Poblenou,71,Fase 1,11694.04,3,5,4.6,0.8,0,0.4
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,4,3,0,2.67,1,0.33
+2,"Carrer de la Maquinista, 40",Ciutat Vella,1,la Barceloneta,3,Fase 1,1015.35,4,4,1.25,1,0.5,1.25
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,4,4,0,1.25,0,0
+4,"Carrer de Sant Pere Mitjà, 88",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 1,267.8,4,4,0.5,1.5,0,0.5
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,4,4,0,1,2.5,2.25
+6,Carrer dels Escudellers (Passatge del Rellotge),Ciutat Vella,1,el Barri Gòtic,2,Fase 1,223.98,4,3,0,1.67,1.67,0.67
+7,Carrer Floridablanca,Eixample,2,Sant Antoni,10,Fase 1,3900.86,4,4,1,1,2,0.25
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,4,4,7,0,0,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,4,4,13,1.75,1,0
+10,Passatge Utset,Eixample,2,la Sagrada Família,6,Fase 1,687.66,4,4,0,0,0,0
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,4,4,4.75,4,2,0
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,4,4,5.75,1,0,0
+13,Carrer 26 de Gener de 1641,Sants-Montjuïc,3,Hostafrancs,15,Fase 1,1132.9,4,3,1,1,0.33,0
+14,Carrer d'Elkano,Sants-Montjuïc,3,el Poble Sec,11,Fase 1,3996.56,4,4,1.5,3.75,1.5,2.25
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,4,4,0.75,1,0,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,4,4,5,1.25,1.5,0.25
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,4,4,1,1.75,0.5,0.25
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,4,4,10.25,0.5,0,0
+19,Carrer Guitard,Les Corts,4,les Corts,19,Fase 1,2939.53,4,4,1.25,0.5,0,0.25
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,4,4,3.75,0,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,4,4,14.5,0,0,0
+22,Jardins de Joan Altisent,Les Corts,4,les Corts,19,Fase 1,2615.72,4,4,15.75,0,0.5,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,4,4,2,0.25,0,0
+24,Jardins del Clot d'en Salvi,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1,1924.65,4,4,1.75,0.5,0,0
+25,Carrer d'Hurtado,Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 1,1098.88,4,4,0.75,0.75,0,0
+26,Jardins de la biblioteca Clarà,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1,1139.68,4,4,5,0,0,0
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,4,4,15.25,0.25,0,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,4,4,0,1,0.25,0.75
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,4,4,3.75,0,0,0
+30,Turó Parc,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1,848.59,4,4,0,0,0,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,4,4,0,2.5,0.5,0.25
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,4,4,5.25,0.5,0,0
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,4,4,4.5,0.5,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,4,4,10.75,0.25,0,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,4,3,0.67,1,0.33,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,4,3,4,0.33,0,0
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,4,4,3.25,3,3.75,0.75
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,4,4,0.75,0,0,0
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,4,4,13.75,2.5,0,0
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,4,4,1.25,0,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,4,4,0.75,1.5,0.75,1.25
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,4,4,7,0,0,0
+43,Carrer de la Florida,Nou Barris,8,la Prosperitat,52,Fase 1,287.12,4,2,0.5,0,0,0
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,4,4,0.75,4.75,2.75,0.5
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,4,4,2,5.5,0.5,0
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,4,4,1.25,2.25,0,0.5
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,4,4,2,3.5,0,0.75
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,4,4,2.25,2,1,0.25
+49,Carrer de Kobe,Sant Andreu,9,la Sagrera,61,Fase 1,4338.01,4,4,7,0.25,2,0
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,4,4,2,0.5,0,0.5
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,4,4,0.25,0.25,0,0
+52,Plaça del Cep,Sant Andreu,9,el Congrés i els Indians,62,Fase 1,1829.34,4,4,6.75,0,0,0
+53,Plaça Islàndia,Sant Andreu,9,Navas,63,Fase 1,2693.2,4,4,4.5,0.5,0,0.25
+54,Plaça Jardins de Pepa Colomer,Sant Andreu,9,la Sagrera,61,Fase 1,4854.17,4,3,8.67,0,0,0
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,4,3,3,7.33,1.33,1.67
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,4,3,1.67,5,1.33,3.33
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,4,4,7.25,3.75,0.25,0
+58,Parc del Poblenou,Sant Martí,10,el Poblenou,68,Fase 1,6782.42,4,3,2.67,0,0,0
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,4,4,9.75,1,0,0
+60,Plaça de Dolors Canals,Sant Martí,10,Provençals del Poblenou,71,Fase 1,11694.04,4,4,2,0,0,0
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,5,5,0.2,5,1,0
+2,"Carrer de la Maquinista, 40",Ciutat Vella,1,la Barceloneta,3,Fase 1,1015.35,5,5,0.4,1.6,0.4,0
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,5,5,0.2,3.6,0,0
+4,"Carrer de Sant Pere Mitjà, 88",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 1,267.8,5,5,0.2,5.2,0,0
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,5,5,0,3,1.2,0
+6,Carrer dels Escudellers (Passatge del Rellotge),Ciutat Vella,1,el Barri Gòtic,2,Fase 1,223.98,5,5,0.2,2.8,0.8,0
+7,Carrer Floridablanca,Eixample,2,Sant Antoni,10,Fase 1,3900.86,5,5,0.8,2,2.2,0
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,5,5,3.8,0,0.2,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,5,5,11.2,0.8,0,0
+10,Passatge Utset,Eixample,2,la Sagrada Família,6,Fase 1,687.66,5,5,0,0,0,0
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,5,5,2.2,1,0,0
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,5,5,6,0.4,0.2,0
+13,Carrer 26 de Gener de 1641,Sants-Montjuïc,3,Hostafrancs,15,Fase 1,1132.9,5,4,0.75,1.75,0.5,0
+14,Carrer d'Elkano,Sants-Montjuïc,3,el Poble Sec,11,Fase 1,3996.56,5,4,1.75,3,0.75,0
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,5,4,1.5,0.5,0,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,5,4,5,1.75,0,0
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,5,4,3.25,1.25,0,0
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,5,4,7,0.25,0,0
+19,Carrer Guitard,Les Corts,4,les Corts,19,Fase 1,2939.53,5,4,0.25,1.5,1,0
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,5,4,2,0.5,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,5,4,6,0.25,0,0
+22,Jardins de Joan Altisent,Les Corts,4,les Corts,19,Fase 1,2615.72,5,4,14.25,0.5,0.5,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,5,4,2.25,0,0,0
+24,Jardins del Clot d'en Salvi,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1,1924.65,5,4,0.75,0.25,0,0
+25,Carrer d'Hurtado,Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 1,1098.88,5,4,1.25,0.25,0,0
+26,Jardins de la biblioteca Clarà,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1,1139.68,5,4,8.75,0,0,0
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,5,4,25.25,0.25,0,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,5,4,0.25,0.75,0,0
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,5,4,1.25,0,0,0
+30,Turó Parc,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1,848.59,5,4,0,0,0,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,5,5,0.2,1.8,0.8,0
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,5,5,3.2,0,0,0
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,5,5,1.8,0.4,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,5,5,3.8,0,0,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,5,5,0.6,1.6,0.8,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,5,5,4,0.2,0.4,0
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,5,5,1.6,3.6,1,0
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,5,5,2,0.2,0,0
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,5,5,8,0,0,0
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,5,5,1.2,0,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,5,5,1,1,0.2,0
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,5,5,8.4,0.6,0,0
+43,Carrer de la Florida,Nou Barris,8,la Prosperitat,52,Fase 1,287.12,5,4,0,0.25,0,0
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,5,4,0,4.25,1.25,0
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,5,4,0.5,3,0.25,0
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,5,4,0,0.5,0.75,0
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,5,4,0.5,2.25,1,0
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,5,4,1.5,4,0,0
+49,Carrer de Kobe,Sant Andreu,9,la Sagrera,61,Fase 1,4338.01,5,4,3.25,0.5,0,0
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,5,4,1,0.5,0,0
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,5,4,0,0.25,0,0
+52,Plaça del Cep,Sant Andreu,9,el Congrés i els Indians,62,Fase 1,1829.34,5,4,4.75,0,0,0
+53,Plaça Islàndia,Sant Andreu,9,Navas,63,Fase 1,2693.2,5,4,3.5,0.25,0,0
+54,Plaça Jardins de Pepa Colomer,Sant Andreu,9,la Sagrera,61,Fase 1,4854.17,5,4,6.75,0.5,0,0
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,5,4,0.25,6.25,0.25,0
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,5,4,2,4.25,1.25,0
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,5,4,3.25,1.75,0.75,0
+58,Parc del Poblenou,Sant Martí,10,el Poblenou,68,Fase 1,6782.42,5,4,1,0.25,0,0
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,5,4,8,3,0,0
+60,Plaça de Dolors Canals,Sant Martí,10,Provençals del Poblenou,71,Fase 1,11694.04,5,4,2,0.25,0,0
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,6,3,0.33,5.33,7,0.33
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,6,3,0.67,1,0.67,0
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,6,3,1,1,0.67,3.33
+61,"Carrer de la Maquinista, 53",Ciutat Vella,1,la Barceloneta,3,Fase 2,562.46,6,3,0.33,0.33,1,0.33
+62,"Carrer de Freixures, 23",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,290.22,6,3,0.33,0.67,0,0
+63,"Carrer de la Princesa, 15",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,1434.73,6,3,0,3.33,5.33,1.33
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,6,4,8.75,0.25,0,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,6,4,9,0.25,0.25,1
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,6,4,3,1,2,0
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,6,4,3.25,0.5,3,2
+64,Carrer de València (Passatge de Maiol),Eixample,2,la Sagrada Família,6,Fase 2,3889.28,6,4,0.75,0.25,0.25,0
+65,Carrer Tamarit (Ronda de Sant Antoni),Eixample,2,Sant Antoni,10,Fase 2,2500.77,6,4,0,3.5,4.25,0.5
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,6,4,0.25,0.25,0,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,6,4,3.25,0.5,4,0
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,6,4,3.5,0.5,0.25,0.25
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,6,4,7,0.5,0,0
+66,"Carrer de Poeta Cabanyes, 36",Sants-Montjuïc,3,el Poble Sec,11,Fase 2,1322.04,6,4,2,1,0.25,0.25
+67,"Carrer del Moianès, 75 (Carrer de Vilardell)",Sants-Montjuïc,3,Hostafrancs,16,Fase 2,569.58,6,4,0.75,1,0,0
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,6,4,3,0,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,6,4,12.75,0.75,0,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,6,4,3.75,0,0,0
+68,Mercat de les Corts,Les Corts,4,les Corts,19,Fase 2,4188.3,6,4,0,0,0.25,0.25
+69,Carrer de Can Segalar (Jardinet de Maria Dolors Bargalló),Les Corts,4,les Corts,19,Fase 2,3407.64,6,4,8.5,0.25,2.25,0.5
+70,"Carrer del Montnegre, 54",Les Corts,4,les Corts,19,Fase 2,1003.76,6,4,1.25,1,2,0.25
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,6,3,24.67,0.33,0,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,6,2,0.5,0,0,0
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,6,3,7,0,0,0
+71,"Carrer del Cardenal Sentmenat, 8",Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,3127.34,6,2,0.5,0,0.5,0
+72,Plaça de Sant Vicenç de Sarrià,Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,876.9,6,2,0,3,9.5,0
+73,"Carrer de Suïssa, 9",Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 2,625.88,6,3,1.33,0.33,0.33,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,6,3,0,1,0.33,0
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,6,3,3.33,0,0,0
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,6,3,1.67,0,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,6,2,5,0.5,0,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,6,3,0,0,0,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,6,3,2.67,0,0,0
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,6,4,0.75,3,1.5,0.25
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,6,4,0.5,0,0.25,0
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,6,4,3.75,0.5,0.75,0.25
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,6,4,0.75,1,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,6,4,1,0,0.25,1
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,6,4,10.75,0,0,0
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,6,4,0.25,1,1,0.5
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,6,4,1.25,2,8.75,0.25
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,6,4,0,2,1.75,0.25
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,6,4,0.5,1.75,0.25,1.5
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,6,4,1.25,1.25,2.75,0.5
+74,"Carrer Tissó, 53",Nou Barris,8,la Prosperitat,52,Fase 2,1619.66,6,4,4.25,6.75,7.25,0.25
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,6,4,3.5,1.25,0,0
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,6,4,0,0.5,0,0
+75,Plaça de Fèlix Rodríguez de la Fuente,Sant Andreu,9,el Bon Pastor,59,Fase 2,1682.89,6,4,1,5,0,0.5
+76,Carrer d'Honduras (Metro La Sagrera),Sant Andreu,9,la Sagrera,61,Fase 2,1443.14,6,4,0.75,1,3,0
+77,Jardins de Villa Clara,Sant Andreu,9,el Congrés i els Indians,62,Fase 2,797.81,6,5,1,0.8,0.2,0.6
+78,Plaça de Montserrat Roca i Baltà,Sant Andreu,9,Sant Andreu,60,Fase 2,836.01,6,4,1.75,1.25,0.5,0.25
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,6,2,1.5,4.5,1.5,0
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,6,2,0.5,0.5,0,0
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,6,2,1.5,2,0,0
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,6,2,3,0,0,1.5
+79,Jardins de Xavier Berenguel,Sant Martí,10,el Poblenou,68,Fase 2,2871.78,6,3,5.33,2,0.67,0
+80,Gran Via (entre Bac de Roda i Fluvià),Sant Martí,10,Provençals del Poblenou,71,Fase 2,5187.04,6,3,5,1.67,1,1.33
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,7,5,0.4,6,0.8,0.8
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,7,5,1,3.2,1,0.2
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,7,5,0.4,1.8,0,2.2
+61,"Carrer de la Maquinista, 53",Ciutat Vella,1,la Barceloneta,3,Fase 2,562.46,7,5,1.2,4,1,0.8
+62,"Carrer de Freixures, 23",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,290.22,7,5,0.2,0.6,0,0.4
+63,"Carrer de la Princesa, 15",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,1434.73,7,5,1.4,2.4,2.6,1.4
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,7,5,5.8,1.2,0.2,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,7,5,4.4,1.2,0,0
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,7,5,1.8,0.2,3.2,1.4
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,7,5,3.6,1.8,1.2,0.2
+64,Carrer de València (Passatge de Maiol),Eixample,2,la Sagrada Família,6,Fase 2,3889.28,7,5,0.8,0.4,0,0.4
+65,Carrer Tamarit (Ronda de Sant Antoni),Eixample,2,Sant Antoni,10,Fase 2,2500.77,7,5,0.4,2.2,1.4,1.4
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,7,4,1,0.5,0,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,7,4,4.75,2,1,0
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,7,4,3.25,1.75,0,0
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,7,4,9,0.75,0,0
+66,"Carrer de Poeta Cabanyes, 36",Sants-Montjuïc,3,el Poble Sec,11,Fase 2,1322.04,7,4,1,2.5,3,1.75
+67,"Carrer del Moianès, 75 (Carrer de Vilardell)",Sants-Montjuïc,3,Hostafrancs,16,Fase 2,569.58,7,4,2.5,0.5,0,0.5
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,7,5,2.6,0,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,7,5,6.4,0.4,0,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,7,5,3.4,0.2,0,0
+68,Mercat de les Corts,Les Corts,4,les Corts,19,Fase 2,4188.3,7,5,0.2,0.4,0,0
+69,Carrer de Can Segalar (Jardinet de Maria Dolors Bargalló),Les Corts,4,les Corts,19,Fase 2,3407.64,7,5,9,1.6,1,0
+70,"Carrer del Montnegre, 54",Les Corts,4,les Corts,19,Fase 2,1003.76,7,5,4.8,2.8,7.6,1.4
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,7,4,18,0.75,0.25,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,7,4,0,0.25,0.25,0
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,7,4,3,0,0,0
+71,"Carrer del Cardenal Sentmenat, 8",Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,3127.34,7,4,2.5,2.25,0,0
+72,Plaça de Sant Vicenç de Sarrià,Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,876.9,7,4,0,1.5,0.25,0
+73,"Carrer de Suïssa, 9",Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 2,625.88,7,4,2,0.25,0.25,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,7,5,0,5.2,1.6,0
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,7,5,4,0.4,0,0.2
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,7,5,0.6,0,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,7,5,1.6,0.2,1.6,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,7,5,0.2,0.8,0,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,7,5,2.4,0.8,0,0.2
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,7,5,3,7.6,1.4,0.2
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,7,5,2.4,0,0,0.2
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,7,5,1.8,1.4,0.2,0
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,7,5,1.6,0.2,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,7,5,0.8,3.6,0.2,1
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,7,5,11.4,0,0,0
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,7,5,0.2,3.4,3.8,0.2
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,7,5,1,7.2,1.4,0.6
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,7,5,0.6,3,3.2,0
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,7,5,1,1.6,1,0.2
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,7,5,1,2.6,2,1
+74,"Carrer Tissó, 53",Nou Barris,8,la Prosperitat,52,Fase 2,1619.66,7,5,3,4.2,1.2,0
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,7,4,2.25,1.75,0.75,0.5
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,7,4,0.25,0.75,0,0
+75,Plaça de Fèlix Rodríguez de la Fuente,Sant Andreu,9,el Bon Pastor,59,Fase 2,1682.89,7,4,1.5,6,0.5,0
+76,Carrer d'Honduras (Metro La Sagrera),Sant Andreu,9,la Sagrera,61,Fase 2,1443.14,7,4,1,8,1.75,0
+77,Jardins de Villa Clara,Sant Andreu,9,el Congrés i els Indians,62,Fase 2,797.81,7,4,0.25,2.25,0.25,0.25
+78,Plaça de Montserrat Roca i Baltà,Sant Andreu,9,Sant Andreu,60,Fase 2,836.01,7,4,3,1.25,0.5,1
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,7,4,2.5,6.75,2.5,3.25
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,7,4,0.5,4,1.75,5.25
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,7,4,1.5,0.5,0,0.25
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,7,4,5.25,1.75,0,0.75
+79,Jardins de Xavier Berenguel,Sant Martí,10,el Poblenou,68,Fase 2,2871.78,7,4,1.75,1.75,0.75,1
+80,Gran Via (entre Bac de Roda i Fluvià),Sant Martí,10,Provençals del Poblenou,71,Fase 2,5187.04,7,4,2.5,2,0.25,1.25
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,8,4,0.25,5.5,0.75,0
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,8,4,0.5,5.5,1.75,0
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,8,4,0.75,1.75,5.5,4.25
+61,"Carrer de la Maquinista, 53",Ciutat Vella,1,la Barceloneta,3,Fase 2,562.46,8,4,1.5,0.75,1,1.75
+62,"Carrer de Freixures, 23",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,290.22,8,4,0.5,0.75,0,0
+63,"Carrer de la Princesa, 15",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,1434.73,8,4,0.5,3.5,1.25,0.75
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,8,3,3,0,0,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,8,3,7.33,1,0,0
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,8,3,2.33,0,0,0
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,8,3,3.67,0,2.67,0
+64,Carrer de València (Passatge de Maiol),Eixample,2,la Sagrada Família,6,Fase 2,3889.28,8,3,1.33,0,2.67,0
+65,Carrer Tamarit (Ronda de Sant Antoni),Eixample,2,Sant Antoni,10,Fase 2,2500.77,8,3,0.33,2.67,1.33,1.67
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,8,5,0.4,0.6,0.2,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,8,5,4.2,2,0.6,0.4
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,8,5,5.2,0.8,0,0
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,8,5,11.2,0.2,0,0
+66,"Carrer de Poeta Cabanyes, 36",Sants-Montjuïc,3,el Poble Sec,11,Fase 2,1322.04,8,5,0.4,1.4,0.6,0
+67,"Carrer del Moianès, 75 (Carrer de Vilardell)",Sants-Montjuïc,3,Hostafrancs,16,Fase 2,569.58,8,5,0.6,2.8,0.8,0.6
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,8,4,2.5,0.25,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,8,4,3.5,0,0,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,8,4,4,0.25,2,0
+68,Mercat de les Corts,Les Corts,4,les Corts,19,Fase 2,4188.3,8,4,1.25,0.5,0,0
+69,Carrer de Can Segalar (Jardinet de Maria Dolors Bargalló),Les Corts,4,les Corts,19,Fase 2,3407.64,8,4,7.75,0.25,0.25,0
+70,"Carrer del Montnegre, 54",Les Corts,4,les Corts,19,Fase 2,1003.76,8,4,1,2,1,1
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,8,5,6.8,0.6,0,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,8,5,0.2,0,0,0
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,8,5,1.8,0.2,0,0
+71,"Carrer del Cardenal Sentmenat, 8",Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,3127.34,8,5,1,2,0.2,0
+72,Plaça de Sant Vicenç de Sarrià,Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,876.9,8,5,0.8,1.4,1,0
+73,"Carrer de Suïssa, 9",Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 2,625.88,8,5,1.4,1,0,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,8,4,0.5,1,0.5,0
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,8,4,1.75,0.5,0,0
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,8,4,2.5,0.25,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,8,4,4,1.25,0,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,8,4,0.25,1,3.75,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,8,4,3.5,0,0.25,0
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,8,3,1,1.33,0.67,6
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,8,3,2,0.33,0,0
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,8,3,4.67,1,0,0
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,8,3,0.33,0.33,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,8,3,0.67,0.67,1,0
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,8,3,5.67,0.33,0,0
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,8,4,0,3,3.25,0.25
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,8,4,0.5,0.5,0.75,0.75
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,8,4,1.5,2,2.5,0.25
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,8,4,1,2.25,2,1.5
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,8,4,2.75,5.5,3.5,0.75
+74,"Carrer Tissó, 53",Nou Barris,8,la Prosperitat,52,Fase 2,1619.66,8,4,1,2.25,0.25,0
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,8,5,1,2.2,0.2,2
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,8,5,0.4,0.6,0,0
+75,Plaça de Fèlix Rodríguez de la Fuente,Sant Andreu,9,el Bon Pastor,59,Fase 2,1682.89,8,5,0.4,0.8,0,0
+76,Carrer d'Honduras (Metro La Sagrera),Sant Andreu,9,la Sagrera,61,Fase 2,1443.14,8,5,0.6,1.6,1,0
+77,Jardins de Villa Clara,Sant Andreu,9,el Congrés i els Indians,62,Fase 2,797.81,8,5,1,1.2,1.2,0.2
+78,Plaça de Montserrat Roca i Baltà,Sant Andreu,9,Sant Andreu,60,Fase 2,836.01,8,5,3,1.8,0.6,0.2
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,8,5,3,4.4,1.4,0.4
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,8,5,1,1.2,1,2.4
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,8,5,3.8,0.2,0.8,0.2
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,8,5,3.8,2,0,0.8
+79,Jardins de Xavier Berenguel,Sant Martí,10,el Poblenou,68,Fase 2,2871.78,8,5,2.4,2.4,1.2,0
+80,Gran Via (entre Bac de Roda i Fluvià),Sant Martí,10,Provençals del Poblenou,71,Fase 2,5187.04,8,5,3.4,1,0.8,1.4
+1,"Carrer de Josep Anselm Clavé, 2",Ciutat Vella,1,el Barri Gòtic,2,Fase 1 i 2,809.97,9,3,0.33,1,2,0.67
+3,"Carrer de les Carretes, 47",Ciutat Vella,1,el Raval,1,Fase 1 i 2,208.51,9,3,0.67,4,2,1
+5,"Carrer de Sant Rafael, 38 (Pista Negra)",Ciutat Vella,1,el Raval,1,Fase 1 i 2,272.65,9,3,1,1,0.67,1.33
+61,"Carrer de la Maquinista, 53",Ciutat Vella,1,la Barceloneta,3,Fase 2,562.46,9,3,2,1.67,4.67,2.33
+62,"Carrer de Freixures, 23",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,290.22,9,3,0.67,1.33,2.67,1
+63,"Carrer de la Princesa, 15",Ciutat Vella,1,Sant Pere Santa Caterina i la Ribera,4,Fase 2,1434.73,9,3,0.67,3.33,2.33,0.33
+8,Jardins de Montserrat Roig,Eixample,2,la Sagrada Família,6,Fase 1 i 2,3034.5,9,4,3.5,0.5,0,0
+9,Jardins de Sebastià Gasch,Eixample,2,la Nova Esquerra de l'Eixample,9,Fase 1 i 2,1931.38,9,4,6.75,4,0,0
+11,Passatge Vilaret,Eixample,2,la Sagrada Família,6,Fase 1 i 2,1733.89,9,4,5.25,2,0,10
+12,Voltants del Mercat de Sant Antoni,Eixample,2,Sant Antoni,10,Fase 1 i 2,19357.55,9,4,2.25,1.25,1,0.5
+64,Carrer de València (Passatge de Maiol),Eixample,2,la Sagrada Família,6,Fase 2,3889.28,9,4,1.5,3,1,3.5
+65,Carrer Tamarit (Ronda de Sant Antoni),Eixample,2,Sant Antoni,10,Fase 2,2500.77,9,4,1,2.75,3.25,5.5
+15,Plaça de la Bella Dorita,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,2551.37,9,3,0,0,0,0
+16,Plaça de la Marina de Sants,Sants-Montjuïc,3,la Marina de Port,13,Fase 1 i 2,4777.47,9,3,3.67,1,0.33,0.67
+17,Plaça de l'Olivereta,Sants-Montjuïc,3,Sants - Badal,17,Fase 1 i 2,8078.84,9,3,1.33,1,0,0
+18,Plaça de Santa Madrona,Sants-Montjuïc,3,el Poble Sec,11,Fase 1 i 2,1360.92,9,3,2.67,0,0,0.33
+66,"Carrer de Poeta Cabanyes, 36",Sants-Montjuïc,3,el Poble Sec,11,Fase 2,1322.04,9,3,1,1,0.33,0
+67,"Carrer del Moianès, 75 (Carrer de Vilardell)",Sants-Montjuïc,3,Hostafrancs,16,Fase 2,569.58,9,3,0.33,0.67,0,0.67
+20,Jardins de Bacardí,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,7636.62,9,3,2.33,0.67,0,0
+21,Jardins de Can Cuiàs,Les Corts,4,les Corts,19,Fase 1 i 2,5061.68,9,3,3,0,0,0
+23,Jardins de Josep Munté,Les Corts,4,la Maternitat i Sant Ramon,20,Fase 1 i 2,5848.51,9,3,4.67,0,0,0
+68,Mercat de les Corts,Les Corts,4,les Corts,19,Fase 2,4188.3,9,3,0.33,1,0,0
+69,Carrer de Can Segalar (Jardinet de Maria Dolors Bargalló),Les Corts,4,les Corts,19,Fase 2,3407.64,9,3,10,1.33,1,0.33
+70,"Carrer del Montnegre, 54",Les Corts,4,les Corts,19,Fase 2,1003.76,9,3,4.33,5,2.67,0
+27,Jardins de les Tres Torres,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,5666.72,9,4,5.25,0.5,0,0
+28,Mercat de les Tres Torres,Sarrià-Sant Gervasi,5,les Tres Torres,24,Fase 1 i 2,1966.67,9,4,0.25,0,0,0
+29,Parc de Monterols,Sarrià-Sant Gervasi,5,Sant Gervasi - Galvany,26,Fase 1 i 2,2949.62,9,4,2.5,0,0,0
+71,"Carrer del Cardenal Sentmenat, 8",Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,3127.34,9,4,1.75,4.5,0.25,0
+72,Plaça de Sant Vicenç de Sarrià,Sarrià-Sant Gervasi,5,Sarrià,23,Fase 2,876.9,9,4,0.5,2.5,0.5,0
+73,"Carrer de Suïssa, 9",Sarrià-Sant Gervasi,5,el Putxet i el Farró,27,Fase 2,625.88,9,4,4.25,0.25,0,0
+31,"Carrer de les Carolines, 7",Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,240.54,9,3,0.67,3.33,0.33,0
+32,Jardins d'Antoni Puigverd,Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,3731.4,9,3,2.33,1,0,0
+33,Jardins de Menéndez Pelayo,Gràcia,6,la Salut,30,Fase 1 i 2,2771.85,9,3,1,0.33,0,0
+34,"Passeig Sant Joan, 206",Gràcia,6,el Camp d'en Grassot i Gràcia Nova,32,Fase 1 i 2,5620.15,9,3,4,2.67,0,0
+35,Plaça de La Vila de Gràcia,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,2718.56,9,3,0,0.33,0.33,0
+36,Plaça Lesseps,Gràcia,6,la Vila de Gràcia,31,Fase 1 i 2,4282.02,9,3,1.67,1,0.33,0
+37,Avinguda de Can Baró,Horta-Guinardó,7,Can Baró,34,Fase 1 i 2,3100.01,9,4,2.75,0.75,2.25,2
+38,"Carrer del Llobregós, 17",Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,5607.8,9,4,2.25,0.5,0,0
+39,Jardins del Baix Guinardó,Horta-Guinardó,7,el Baix Guinardó,33,Fase 1 i 2,6160.54,9,4,2.25,0.5,0,2.25
+40,Plaça de la Font d'en Fargues,Horta-Guinardó,7,la Font d'en Fargues,36,Fase 1 i 2,967.29,9,4,1.25,0.5,0,0
+41,Plaça Pastrana,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2725.07,9,4,0.25,8.25,1.25,1
+42,Plaça Salvador Allende,Horta-Guinardó,7,el Carmel,37,Fase 1 i 2,2338.46,9,4,5,0,0,0
+44,Carrer de la Font d'en Canyelles,Nou Barris,8,la Prosperitat,52,Fase 1 i 2,851.43,9,3,0.33,2.67,0,0.67
+45,Carrer de Pablo Iglesias (amb carrer del Poeta Masiferm),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,1480.11,9,3,0.67,3,0,0.33
+46,Carrer dels Arítjols (amb Joaquim Valls),Nou Barris,8,la Prosperitat,52,Fase 1 i 2,497.6,9,3,1,7.33,0.33,0.67
+47,Carrer Romaní (amb Carrer Torres),Nou Barris,8,les Roquetes,50,Fase 1 i 2,1860.23,9,3,0.33,1.67,0.67,0.33
+48,Placeta de Charlot,Nou Barris,8,Verdun,51,Fase 1 i 2,328.46,9,3,4.67,1,1,0
+74,"Carrer Tissó, 53",Nou Barris,8,la Prosperitat,52,Fase 2,1619.66,9,3,0,4,3.33,0.33
+50,Carrer de la Riera d'Horta,Sant Andreu,9,el Congrés i els Indians,62,Fase 1 i 2,1515.76,9,3,1.33,1,1.67,0.33
+51,Plaça de la Trinitat,Sant Andreu,9,la Trinitat Vella,57,Fase 1 i 2,2581.18,9,3,0,0,0,0.33
+75,Plaça de Fèlix Rodríguez de la Fuente,Sant Andreu,9,el Bon Pastor,59,Fase 2,1682.89,9,3,0.33,3.33,0,0
+76,Carrer d'Honduras (Metro La Sagrera),Sant Andreu,9,la Sagrera,61,Fase 2,1443.14,9,3,0.33,2,2.33,0.33
+77,Jardins de Villa Clara,Sant Andreu,9,el Congrés i els Indians,62,Fase 2,797.81,9,3,0,0.33,0,2
+78,Plaça de Montserrat Roca i Baltà,Sant Andreu,9,Sant Andreu,60,Fase 2,836.01,9,3,1.33,0.33,0.67,0.67
+55,Carrer de Cristóbal de Moura,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5710.33,9,4,0.75,7.5,4.75,3.25
+56,Carrer del Maresme,Sant Martí,10,el Besòs i el Maresme,70,Fase 1 i 2,5457.87,9,4,0.25,2.5,0.5,1.5
+57,Parc de Sant Martí,Sant Martí,10,Sant Martí de Provençals,72,Fase 1 i 2,15052.52,9,4,2,0.75,0.25,0.75
+59,Plaça Camí de la Verneda,Sant Martí,10,la Verneda i la Pau,73,Fase 1 i 2,1033.94,9,4,4.75,0.25,0,0
+79,Jardins de Xavier Berenguel,Sant Martí,10,el Poblenou,68,Fase 2,2871.78,9,4,5,1.5,1.25,0
+80,Gran Via (entre Bac de Roda i Fluvià),Sant Martí,10,Provençals del Poblenou,71,Fase 2,5187.04,9,3,4.33,2,0,1.33

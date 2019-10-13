@@ -1,0 +1,1412 @@
+2019-10-12 06:00:05,255 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 06:00:08,271 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 06:03:25,088 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 06:03:28,166 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 06:07:26,638 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 06:07:29,633 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 13:47:10,859 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 13:47:14,474 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 16:30:07,924 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 16:30:11,356 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:45:57,267 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:46:00,200 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:46:00,265 [ERROR]  Could not load model due to Not all required importable packages are installed. To use this pipeline, you need to install the missing dependencies. Please install the package(s) that contain the module(s): spacy.
+2019-10-12 18:46:00,265 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 327, in create
+    components.validate_requirements(model_metadata.component_classes)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 50, in validate_requirements
+    ", ".join(failed_imports)
+Exception: Not all required importable packages are installed. To use this pipeline, you need to install the missing dependencies. Please install the package(s) that contain the module(s): spacy
+2019-10-12 18:46:50,533 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:46:53,400 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:46:53,464 [ERROR]  Could not load model due to Not all required importable packages are installed. To use this pipeline, you need to install the missing dependencies. Please install the package(s) that contain the module(s): spacy.
+2019-10-12 18:46:53,465 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 327, in create
+    components.validate_requirements(model_metadata.component_classes)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 50, in validate_requirements
+    ", ".join(failed_imports)
+Exception: Not all required importable packages are installed. To use this pipeline, you need to install the missing dependencies. Please install the package(s) that contain the module(s): spacy
+2019-10-12 18:50:42,372 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:50:45,047 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:50:45,206 [ERROR]  Could not load model due to Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en.
+2019-10-12 18:50:45,207 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 61, in load_model
+    return spacy.load(spacy_model_name, disable=["parser"])
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/__init__.py", line 27, in load
+    return util.load_model(name, **overrides)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/util.py", line 171, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 332, in create
+    component_meta, model_metadata.model_dir, model_metadata, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 456, in load_component
+    component_meta, model_dir, model_metadata, cached_component, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/registry.py", line 204, in load_component_by_meta
+    component_meta, model_dir, metadata, cached_component, **kwargs
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 266, in load
+    nlp = cls.load_model(model_name)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 68, in load_model
+    "en_core_web_md en".format(spacy_model_name)
+rasa.nlu.model.InvalidModelError: Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en
+2019-10-12 18:51:25,433 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:51:28,067 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:51:28,211 [ERROR]  Could not load model due to Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en.
+2019-10-12 18:51:28,212 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 61, in load_model
+    return spacy.load(spacy_model_name, disable=["parser"])
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/__init__.py", line 27, in load
+    return util.load_model(name, **overrides)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/util.py", line 171, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 332, in create
+    component_meta, model_metadata.model_dir, model_metadata, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 456, in load_component
+    component_meta, model_dir, model_metadata, cached_component, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/registry.py", line 204, in load_component_by_meta
+    component_meta, model_dir, metadata, cached_component, **kwargs
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 266, in load
+    nlp = cls.load_model(model_name)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 68, in load_model
+    "en_core_web_md en".format(spacy_model_name)
+rasa.nlu.model.InvalidModelError: Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en
+2019-10-12 18:53:54,583 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:53:57,134 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:53:57,270 [ERROR]  Could not load model due to Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en.
+2019-10-12 18:53:57,270 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 61, in load_model
+    return spacy.load(spacy_model_name, disable=["parser"])
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/__init__.py", line 27, in load
+    return util.load_model(name, **overrides)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/util.py", line 171, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 332, in create
+    component_meta, model_metadata.model_dir, model_metadata, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 456, in load_component
+    component_meta, model_dir, model_metadata, cached_component, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/registry.py", line 204, in load_component_by_meta
+    component_meta, model_dir, metadata, cached_component, **kwargs
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 266, in load
+    nlp = cls.load_model(model_name)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 68, in load_model
+    "en_core_web_md en".format(spacy_model_name)
+rasa.nlu.model.InvalidModelError: Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en
+2019-10-12 18:55:45,842 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:55:48,498 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:55:48,637 [ERROR]  Could not load model due to Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en.
+2019-10-12 18:55:48,638 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 61, in load_model
+    return spacy.load(spacy_model_name, disable=["parser"])
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/__init__.py", line 27, in load
+    return util.load_model(name, **overrides)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/util.py", line 171, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'en'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 332, in create
+    component_meta, model_metadata.model_dir, model_metadata, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 456, in load_component
+    component_meta, model_dir, model_metadata, cached_component, **context
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/registry.py", line 204, in load_component_by_meta
+    component_meta, model_dir, metadata, cached_component, **kwargs
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 266, in load
+    nlp = cls.load_model(model_name)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/utils/spacy_utils.py", line 68, in load_model
+    "en_core_web_md en".format(spacy_model_name)
+rasa.nlu.model.InvalidModelError: Model 'en' is not a linked spaCy model.  Please download and/or link a spaCy model, e.g. by running:
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en
+2019-10-12 18:56:03,665 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:56:06,172 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:56:22,864 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-en'.
+2019-10-12 18:56:30,600 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model/parse'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /model/parse
+2019-10-12 18:56:30,739 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-10-12 18:58:05,698 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 18:58:08,439 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 18:58:26,963 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-en'.
+2019-10-12 18:59:15,423 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/application/json'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /application/json not found
+2019-10-12 18:59:18,860 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/application/'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /application/ not found
+2019-10-12 18:59:43,175 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /model
+2019-10-12 18:59:56,889 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model/parse'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /model/parse
+2019-10-12 19:00:40,360 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-12 19:00:40,360 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 19:00:40,361 [INFO ]  Enabling coroutine debugging. Loop id 71409256.
+2019-10-12 19:00:40,365 [DEBUG]  Extracted model to '/tmp/tmplhyy227m'.
+2019-10-12 19:00:42,936 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 19:01:00,142 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-en'.
+2019-10-12 19:01:00,166 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-12 19:01:00,167 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-12 19:01:00,171 [DEBUG]  Extracted model to '/tmp/tmp1781_to9'.
+2019-10-12 19:01:06,488 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model/predict'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /model/predict
+2019-10-12 19:01:13,309 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model/predict?text=%22ttt%22'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /model/predict
+2019-10-12 19:02:11,711 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-12 19:02:11,711 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 19:02:11,713 [INFO ]  Enabling coroutine debugging. Loop id 72921512.
+2019-10-12 19:02:11,717 [DEBUG]  Extracted model to '/tmp/tmpzdl_a6e7'.
+2019-10-12 19:02:14,372 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 19:02:32,163 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-en'.
+2019-10-12 19:02:32,186 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-12 19:02:32,186 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-12 19:02:32,191 [DEBUG]  Extracted model to '/tmp/tmpkdjgssl6'.
+2019-10-12 19:02:44,347 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/conversations/default/parse'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /conversations/default/parse not found
+2019-10-12 19:03:27,805 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 902, in parse
+    data.get("text")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 440, in parse_message_using_nlu_interpreter
+    return await processor._parse_message(message, tracker)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/processor.py", line 306, in _parse_message
+    message.text, message.message_id, tracker
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 279, in parse
+    result = self.interpreter.parse(text, message_id)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 380, in parse
+    component.process(message, **self.context)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/sklearn_intent_classifier.py", line 147, in process
+    intent_ids, probabilities = self.predict(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/sklearn_intent_classifier.py", line 190, in predict
+    pred_result = self.predict_prob(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/sklearn_intent_classifier.py", line 179, in predict_prob
+    return self.clf.predict_proba(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sklearn/svm/base.py", line 620, in _predict_proba
+    X = self._validate_for_predict(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sklearn/svm/base.py", line 474, in _validate_for_predict
+    (n_features, self.shape_fit_[1]))
+ValueError: X.shape[1] = 300 should be equal to 96, the number of features at training time
+
+2019-10-12 19:03:27,805 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 902, in parse
+    data.get("text")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 440, in parse_message_using_nlu_interpreter
+    return await processor._parse_message(message, tracker)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/processor.py", line 306, in _parse_message
+    message.text, message.message_id, tracker
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 279, in parse
+    result = self.interpreter.parse(text, message_id)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 380, in parse
+    component.process(message, **self.context)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/sklearn_intent_classifier.py", line 147, in process
+    intent_ids, probabilities = self.predict(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/sklearn_intent_classifier.py", line 190, in predict
+    pred_result = self.predict_prob(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/sklearn_intent_classifier.py", line 179, in predict_prob
+    return self.clf.predict_proba(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sklearn/svm/base.py", line 620, in _predict_proba
+    X = self._validate_for_predict(X)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sklearn/svm/base.py", line 474, in _validate_for_predict
+    (n_features, self.shape_fit_[1]))
+ValueError: X.shape[1] = 300 should be equal to 96, the number of features at training time
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 909, in parse
+    "An unexpected error occurred. Error: {}".format(e),
+rasa.server.ErrorResponse: (400, 'ParsingError', 'An unexpected error occurred. Error: X.shape[1] = 300 should be equal to 96, the number of features at training time')
+
+2019-10-12 19:05:34,310 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-12 19:05:34,311 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 19:05:34,312 [INFO ]  Enabling coroutine debugging. Loop id 66788856.
+2019-10-12 19:05:34,316 [DEBUG]  Extracted model to '/tmp/tmpgjrsvdu9'.
+2019-10-12 19:05:36,869 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 19:05:36,927 [DEBUG]  Could not load interpreter from 'models'.
+2019-10-12 19:05:36,927 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-12 19:05:36,927 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-12 19:05:36,931 [DEBUG]  Extracted model to '/tmp/tmputzfnx0l'.
+2019-10-12 19:05:36,939 [ERROR]  Could not load model due to type object 'thinc.neural.ops.array' has no attribute '__reduce_cython__'.
+2019-10-12 19:05:36,939 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 327, in create
+    components.validate_requirements(model_metadata.component_classes)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 33, in validate_requirements
+    from rasa.nlu import registry
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/registry.py", line 16, in <module>
+    from rasa.nlu.extractors.crf_entity_extractor import CRFEntityExtractor
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/extractors/crf_entity_extractor.py", line 14, in <module>
+    import spacy
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/__init__.py", line 12, in <module>
+    from .cli.info import info as cli_info
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/cli/__init__.py", line 1, in <module>
+    from .download import download  # noqa: F401
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/cli/download.py", line 12, in <module>
+    from .link import link
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/cli/link.py", line 8, in <module>
+    from ..compat import symlink_to, path2str
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/spacy/compat.py", line 39, in <module>
+    from thinc.neural.optimizers import Optimizer  # noqa: F401
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/thinc/neural/__init__.py", line 4, in <module>
+    from ._classes.model import Model  # noqa: F401
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/thinc/neural/_classes/model.py", line 11, in <module>
+    from ..train import Trainer
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/thinc/neural/train.py", line 7, in <module>
+    from .optimizers import Adam, linear_decay
+  File "optimizers.pyx", line 13, in init thinc.neural.optimizers
+  File "stringsource", line 105, in init thinc.neural.ops
+AttributeError: type object 'thinc.neural.ops.array' has no attribute '__reduce_cython__'
+2019-10-12 19:05:51,801 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-12 19:05:51,801 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 19:05:51,802 [INFO ]  Enabling coroutine debugging. Loop id 87023224.
+2019-10-12 19:05:51,806 [DEBUG]  Extracted model to '/tmp/tmp73sh97yz'.
+2019-10-12 19:05:54,463 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 19:06:13,379 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-en'.
+2019-10-12 19:06:13,422 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-12 19:06:13,423 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-12 19:06:13,430 [DEBUG]  Extracted model to '/tmp/tmpet8lp40j'.
+2019-10-12 19:08:57,408 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model/predict?text=%22ttt%22'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /model/predict
+2019-10-12 19:57:52,635 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-12 19:57:52,635 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-12 19:57:52,636 [INFO ]  Enabling coroutine debugging. Loop id 70556616.
+2019-10-12 19:57:52,640 [DEBUG]  Extracted model to '/tmp/tmp9r7t8226'.
+2019-10-12 19:57:55,893 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-12 19:58:13,858 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-en'.
+2019-10-12 19:58:13,907 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-12 19:58:13,907 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-12 19:58:13,911 [DEBUG]  Extracted model to '/tmp/tmpdxd8j4tk'.
+2019-10-13 00:50:23,700 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 00:50:23,701 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 00:50:23,704 [INFO ]  Enabling coroutine debugging. Loop id 77041112.
+2019-10-13 00:50:23,916 [DEBUG]  Extracted model to '/tmp/tmphsq9bx5u'.
+2019-10-13 00:50:27,288 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 00:50:28,389 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 00:50:28,389 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 00:50:28,622 [DEBUG]  Extracted model to '/tmp/tmpazjexsw_'.
+2019-10-13 00:50:31,587 [DEBUG]  Received user message 'create a robot' with intent '{'name': 'unknown', 'confidence': 0.2649867534637451}' and entities '[]'
+2019-10-13 00:50:43,871 [DEBUG]  Received user message 'make a robot' with intent '{'name': 'print', 'confidence': 0.6296226382255554}' and entities '[]'
+2019-10-13 00:50:58,105 [DEBUG]  Received user message 'print a robot' with intent '{'name': 'print', 'confidence': 0.8252475261688232}' and entities '[]'
+2019-10-13 00:51:03,674 [DEBUG]  Received user message 'print a red robot' with intent '{'name': 'print', 'confidence': 0.8292548656463623}' and entities '[]'
+2019-10-13 00:51:15,677 [DEBUG]  Received user message 'print a red chair' with intent '{'name': 'print', 'confidence': 0.7325906157493591}' and entities '[]'
+2019-10-13 01:18:53,877 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 01:18:53,877 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 01:18:53,878 [INFO ]  Enabling coroutine debugging. Loop id 73614776.
+2019-10-13 01:18:54,090 [DEBUG]  Extracted model to '/tmp/tmp5qljk_wz'.
+2019-10-13 01:18:57,489 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 01:18:58,397 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 01:18:58,398 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 01:18:58,618 [DEBUG]  Extracted model to '/tmp/tmpqhzurx9a'.
+2019-10-13 01:18:58,815 [DEBUG]  Received user message 'print a red chair' with intent '{'name': 'print', 'confidence': 0.7665085196495056}' and entities '[]'
+2019-10-13 01:19:01,110 [DEBUG]  Received user message 'print a red chair' with intent '{'name': 'print', 'confidence': 0.7665085196495056}' and entities '[]'
+2019-10-13 01:19:11,510 [DEBUG]  Received user message 'print a red thing' with intent '{'name': 'print', 'confidence': 0.9744930863380432}' and entities '[]'
+2019-10-13 01:19:23,332 [DEBUG]  Received user message 'no' with intent '{'name': 'deny', 'confidence': 0.9596613645553589}' and entities '[]'
+2019-10-13 01:19:31,515 [DEBUG]  Received user message 'no not that' with intent '{'name': 'deny', 'confidence': 0.9999884366989136}' and entities '[]'
+2019-10-13 01:22:32,227 [DEBUG]  Received user message 'no not that' with intent '{'name': 'deny', 'confidence': 0.9999884366989136}' and entities '[]'
+2019-10-13 01:22:36,669 [DEBUG]  Received user message 'no not that' with intent '{'name': 'deny', 'confidence': 0.9999884366989136}' and entities '[]'
+2019-10-13 01:22:38,491 [DEBUG]  Received user message 'print a red thing' with intent '{'name': 'print', 'confidence': 0.9744930863380432}' and entities '[]'
+2019-10-13 01:22:52,797 [DEBUG]  Received user message 'i wanna print something huge' with intent '{'name': 'print', 'confidence': 0.7011899352073669}' and entities '[]'
+2019-10-13 02:57:34,852 [DEBUG]  Received user message 'i would not prefer not to' with intent '{'name': 'deny', 'confidence': 0.9999970197677612}' and entities '[]'
+2019-10-13 02:58:02,361 [DEBUG]  Received user message 'i would not prefer to' with intent '{'name': 'deny', 'confidence': 0.9993501305580139}' and entities '[]'
+2019-10-13 02:58:32,623 [DEBUG]  Received user message 'i would prefer to' with intent '{'name': 'deny', 'confidence': 0.8625276684761047}' and entities '[]'
+2019-10-13 02:58:48,153 [DEBUG]  Received user message 'i would like to' with intent '{'name': 'deny', 'confidence': 0.4532753825187683}' and entities '[]'
+2019-10-13 02:58:58,067 [DEBUG]  Received user message 'yes' with intent '{'name': 'confirm', 'confidence': 0.9877657890319824}' and entities '[]'
+2019-10-13 02:59:07,122 [DEBUG]  Received user message 'with pleasure' with intent '{'name': 'cancel', 'confidence': 0.4306327998638153}' and entities '[]'
+2019-10-13 03:23:42,105 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 03:23:42,106 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 03:23:42,107 [INFO ]  Enabling coroutine debugging. Loop id 84930632.
+2019-10-13 03:23:42,349 [DEBUG]  Extracted model to '/tmp/tmp1enpkau9'.
+2019-10-13 03:23:45,825 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 03:23:46,924 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 03:23:46,924 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 03:23:47,190 [DEBUG]  Extracted model to '/tmp/tmpxzll_osu'.
+2019-10-13 03:23:47,863 [DEBUG]  Received user message 'with pleasure' with intent '{'name': 'confirm', 'confidence': 0.5079719424247742}' and entities '[]'
+2019-10-13 03:23:56,920 [DEBUG]  Received user message 'i would not prefer not to' with intent '{'name': 'deny', 'confidence': 0.9957005381584167}' and entities '[]'
+2019-10-13 03:24:06,820 [DEBUG]  Received user message 'create a robot' with intent '{'name': 'print', 'confidence': 0.7779827117919922}' and entities '[]'
+2019-10-13 03:24:17,284 [DEBUG]  Received user message 'make a robot' with intent '{'name': 'print', 'confidence': 0.4826470911502838}' and entities '[]'
+2019-10-13 03:24:23,276 [DEBUG]  Received user message 'make a red robot' with intent '{'name': 'print', 'confidence': 0.8065543174743652}' and entities '[{'start': 7, 'end': 10, 'value': 'red', 'entity': 'color', 'confidence': 0.9972881907076266, 'extractor': 'CRFEntityExtractor'}, {'start': 11, 'end': 16, 'value': 'robot', 'entity': 'object', 'confidence': 0.9633668543022076, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:24:40,714 [DEBUG]  Received user message 'make a red thing' with intent '{'name': 'print', 'confidence': 0.9885948896408081}' and entities '[{'start': 7, 'end': 10, 'value': 'red', 'entity': 'color', 'confidence': 0.9997790916138484, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:25:02,840 [DEBUG]  Received user message 'i would like to make a red thing' with intent '{'name': 'print', 'confidence': 0.9867261648178101}' and entities '[{'start': 23, 'end': 26, 'value': 'red', 'entity': 'color', 'confidence': 0.999779091613548, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:25:18,157 [DEBUG]  Received user message 'print me a table' with intent '{'name': 'print', 'confidence': 0.9858707785606384}' and entities '[]'
+2019-10-13 03:25:35,174 [DEBUG]  Received user message 'print a table' with intent '{'name': 'print', 'confidence': 0.9572117924690247}' and entities '[]'
+2019-10-13 03:26:09,949 [DEBUG]  Received user message 'print a red table' with intent '{'name': 'print', 'confidence': 0.9862992167472839}' and entities '[{'start': 8, 'end': 11, 'value': 'red', 'entity': 'color', 'confidence': 0.9976832230253153, 'extractor': 'CRFEntityExtractor'}, {'start': 12, 'end': 17, 'value': 'table', 'entity': 'object', 'confidence': 0.9688613755646883, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:26:46,401 [DEBUG]  Received user message 'i would like to print a red cup' with intent '{'name': 'print', 'confidence': 0.9922710657119751}' and entities '[{'start': 24, 'end': 27, 'value': 'red', 'entity': 'color', 'confidence': 0.9972881965373699, 'extractor': 'CRFEntityExtractor'}, {'start': 28, 'end': 31, 'value': 'cup', 'entity': 'object', 'confidence': 0.9633668598123318, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:27:18,216 [DEBUG]  Received user message 'can you make for me a black box' with intent '{'name': 'print', 'confidence': 0.59549480676651}' and entities '[{'start': 22, 'end': 27, 'value': 'black', 'entity': 'color', 'confidence': 0.9988635162191473, 'extractor': 'CRFEntityExtractor'}, {'start': 28, 'end': 31, 'value': 'box', 'entity': 'object', 'confidence': 0.9644755534067434, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:31:19,347 [DEBUG]  Received user message 'can you make for me a big black box' with intent '{'name': 'print', 'confidence': 0.4641704559326172}' and entities '[{'start': 26, 'end': 31, 'value': 'black', 'entity': 'color', 'confidence': 0.9770152286895251, 'extractor': 'CRFEntityExtractor'}, {'start': 32, 'end': 35, 'value': 'box', 'entity': 'object', 'confidence': 0.9436722820761065, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:31:41,508 [DEBUG]  Received user message 'can you make for me a small black box' with intent '{'name': 'print', 'confidence': 0.9001379609107971}' and entities '[{'start': 22, 'end': 27, 'value': 'small', 'entity': 'size', 'confidence': 0.9999595825245184, 'extractor': 'CRFEntityExtractor'}, {'start': 28, 'end': 33, 'value': 'black', 'entity': 'color', 'confidence': 0.9998504730341106, 'extractor': 'CRFEntityExtractor'}, {'start': 34, 'end': 37, 'value': 'box', 'entity': 'object', 'confidence': 0.9653810700446044, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:32:17,139 [DEBUG]  Received user message 'can you make for me a large black box' with intent '{'name': 'print', 'confidence': 0.8885462880134583}' and entities '[{'start': 22, 'end': 27, 'value': 'large', 'entity': 'size', 'confidence': 0.9999523992112637, 'extractor': 'CRFEntityExtractor'}, {'start': 28, 'end': 33, 'value': 'black', 'entity': 'color', 'confidence': 0.9998522137400434, 'extractor': 'CRFEntityExtractor'}, {'start': 34, 'end': 37, 'value': 'box', 'entity': 'object', 'confidence': 0.9653822411443119, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 03:32:32,172 [DEBUG]  Received user message 'can you make for me a huge black box' with intent '{'name': 'print', 'confidence': 0.6321853399276733}' and entities '[{'start': 27, 'end': 32, 'value': 'black', 'entity': 'color', 'confidence': 0.9811902476909312, 'extractor': 'CRFEntityExtractor'}, {'start': 33, 'end': 36, 'value': 'box', 'entity': 'object', 'confidence': 0.947642688222589, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 04:48:39,842 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:49:12,751 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:50:00,843 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:50:02,770 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:50:44,528 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:52:56,480 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:53:22,296 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:53:55,521 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 04:53:55,521 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 04:53:55,522 [INFO ]  Enabling coroutine debugging. Loop id 51806632.
+2019-10-13 04:53:55,779 [DEBUG]  Extracted model to '/tmp/tmp0mp98m4y'.
+2019-10-13 04:53:56,180 [DEBUG]  Could not load interpreter from 'models'.
+2019-10-13 04:53:56,182 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 04:53:56,182 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 04:53:56,434 [DEBUG]  Extracted model to '/tmp/tmp55d7nr45'.
+2019-10-13 04:53:56,444 [ERROR]  Could not load model due to This version of TensorFlow Probability requires TensorFlow version >= 1.14; Detected an installation of version 1.13.2. Please upgrade TensorFlow to proceed..
+2019-10-13 04:53:56,445 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 327, in create
+    components.validate_requirements(model_metadata.component_classes)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 33, in validate_requirements
+    from rasa.nlu import registry
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/registry.py", line 11, in <module>
+    from rasa.nlu.classifiers.embedding_intent_classifier import EmbeddingIntentClassifier
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/embedding_intent_classifier.py", line 11, in <module>
+    from rasa.utils import train_utils
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/utils/train_utils.py", line 9, in <module>
+    from tensor2tensor.models.transformer import (
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/models/__init__.py", line 25, in <module>
+    from tensor2tensor.layers import modalities  # pylint: disable=g-import-not-at-top
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/layers/modalities.py", line 28, in <module>
+    from tensor2tensor.layers import common_attention
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/layers/common_attention.py", line 32, in <module>
+    from tensor2tensor.layers import area_attention
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/layers/area_attention.py", line 23, in <module>
+    from tensor2tensor.layers import common_layers
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/layers/common_layers.py", line 30, in <module>
+    import tensorflow_probability as tfp
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensorflow_probability/__init__.py", line 68, in <module>
+    _ensure_tf_install()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensorflow_probability/__init__.py", line 65, in _ensure_tf_install
+    present=tf.__version__))
+ImportError: This version of TensorFlow Probability requires TensorFlow version >= 1.14; Detected an installation of version 1.13.2. Please upgrade TensorFlow to proceed.
+2019-10-13 04:55:19,785 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 04:55:19,786 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 04:55:19,787 [INFO ]  Enabling coroutine debugging. Loop id 78267176.
+2019-10-13 04:55:20,037 [DEBUG]  Extracted model to '/tmp/tmpj62bycxm'.
+2019-10-13 04:55:20,671 [DEBUG]  Could not load interpreter from 'models'.
+2019-10-13 04:55:20,672 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 04:55:20,672 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 04:55:20,923 [DEBUG]  Extracted model to '/tmp/tmpx4ioiz9a'.
+2019-10-13 04:55:20,929 [ERROR]  Could not load model due to module 'tensorflow' has no attribute 'to_float'.
+2019-10-13 04:55:20,930 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1417, in uvloop.loop.Loop.run_until_complete
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/run.py", line 244, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 261, in load_agent
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 912, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/agent.py", line 373, in load
+    interpreter = NaturalLanguageInterpreter.create(nlu_model)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 57, in create
+    return RasaNLUInterpreter(model_directory=obj)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 263, in __init__
+    self._load_interpreter()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/core/interpreter.py", line 286, in _load_interpreter
+    self.interpreter = Interpreter.load(self.model_directory)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 305, in load
+    return Interpreter.create(model_metadata, component_builder, skip_validation)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/model.py", line 327, in create
+    components.validate_requirements(model_metadata.component_classes)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/components.py", line 33, in validate_requirements
+    from rasa.nlu import registry
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/registry.py", line 11, in <module>
+    from rasa.nlu.classifiers.embedding_intent_classifier import EmbeddingIntentClassifier
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/nlu/classifiers/embedding_intent_classifier.py", line 11, in <module>
+    from rasa.utils import train_utils
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/utils/train_utils.py", line 9, in <module>
+    from tensor2tensor.models.transformer import (
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/models/__init__.py", line 25, in <module>
+    from tensor2tensor.layers import modalities  # pylint: disable=g-import-not-at-top
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/layers/modalities.py", line 28, in <module>
+    from tensor2tensor.layers import common_attention
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/tensor2tensor/layers/common_attention.py", line 954, in <module>
+    def attention_bias_to_padding(attention_bias, cast_fn=tf.to_float):
+AttributeError: module 'tensorflow' has no attribute 'to_float'
+2019-10-13 04:56:43,829 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 04:56:43,829 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 04:56:43,830 [INFO ]  Enabling coroutine debugging. Loop id 65444808.
+2019-10-13 04:56:44,080 [DEBUG]  Extracted model to '/tmp/tmp1vahnz59'.
+2019-10-13 04:56:47,183 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 04:56:48,139 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 04:56:48,140 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 04:56:48,387 [DEBUG]  Extracted model to '/tmp/tmpzhznzxij'.
+2019-10-13 04:56:54,994 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 04:59:08,854 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:00:52,026 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 05:00:52,026 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 05:00:52,027 [INFO ]  Enabling coroutine debugging. Loop id 81295400.
+2019-10-13 05:00:52,284 [DEBUG]  Extracted model to '/tmp/tmpa64jjtnh'.
+2019-10-13 05:00:55,491 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 05:00:56,488 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 05:00:56,489 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 05:00:56,770 [DEBUG]  Extracted model to '/tmp/tmpbu2qmul1'.
+2019-10-13 05:00:57,346 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:02:24,194 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 05:02:24,194 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 05:02:24,196 [INFO ]  Enabling coroutine debugging. Loop id 93768936.
+2019-10-13 05:02:24,441 [DEBUG]  Extracted model to '/tmp/tmptg4n5v0i'.
+2019-10-13 05:02:27,353 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 05:02:28,297 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 05:02:28,298 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 05:02:28,582 [DEBUG]  Extracted model to '/tmp/tmppxouvd2p'.
+2019-10-13 05:02:30,584 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:08:04,287 [DEBUG]  Received user message 'can you make for me a huge black box' with intent '{'name': 'print', 'confidence': 0.6321853399276733}' and entities '[{'start': 27, 'end': 32, 'value': 'black', 'entity': 'color', 'confidence': 0.9811902476909312, 'extractor': 'CRFEntityExtractor'}, {'start': 33, 'end': 36, 'value': 'box', 'entity': 'object', 'confidence': 0.947642688222589, 'extractor': 'CRFEntityExtractor'}]'
+2019-10-13 05:10:11,221 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:10:35,700 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 05:10:35,700 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 05:10:35,701 [INFO ]  Enabling coroutine debugging. Loop id 88879400.
+2019-10-13 05:10:35,941 [DEBUG]  Extracted model to '/tmp/tmp_fdwkr69'.
+2019-10-13 05:10:38,632 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 05:10:39,420 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 05:10:39,420 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 05:10:39,663 [DEBUG]  Extracted model to '/tmp/tmpexjjfd3f'.
+2019-10-13 05:10:42,549 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:11:01,068 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:11:30,640 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:12:15,674 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 05:12:15,675 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 05:12:15,676 [INFO ]  Enabling coroutine debugging. Loop id 72411112.
+2019-10-13 05:12:15,916 [DEBUG]  Extracted model to '/tmp/tmp2zdxzwr8'.
+2019-10-13 05:12:18,798 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 05:12:19,669 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 05:12:19,669 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 05:12:19,909 [DEBUG]  Extracted model to '/tmp/tmpzqsmsmn6'.
+2019-10-13 05:12:46,884 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:12:54,320 [DEBUG]  Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 149, in load_json
+    self.parsed_json = loads(self.body)
+ValueError: Unexpected character found when decoding 'true'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/rasa/server.py", line 899, in parse
+    data = emulator.normalise_request_json(request.json)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 143, in json
+    self.load_json()
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/request.py", line 153, in load_json
+    raise InvalidUsage("Failed when parsing body as json")
+sanic.exceptions.InvalidUsage: Failed when parsing body as json
+
+2019-10-13 05:13:00,343 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/model/parse'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /model/parse
+2019-10-13 05:13:00,525 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-10-13 07:49:41,099 [ERROR]  Exception occurred while handling uri: 'http://localhost:5005/favicon.ico'
+Traceback (most recent call last):
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/weiss/workspace/hackathons/hackupc/venv/lib/python3.7/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-10-13 08:00:36,724 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-13 08:00:36,725 [INFO ]  Starting Rasa server on http://localhost:5005
+2019-10-13 08:00:36,731 [INFO ]  Enabling coroutine debugging. Loop id 71487864.
+2019-10-13 08:00:37,116 [DEBUG]  Extracted model to '/tmp/tmpmuphyp8g'.
+2019-10-13 08:00:40,465 [INFO ]  Entry Point [tensor2tensor.envs.tic_tac_toe_env:TicTacToeEnv] registered with id [T2TEnv-TicTacToeEnv-v0]
+2019-10-13 08:00:41,350 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-10-13 08:00:41,350 [DEBUG]  Connected to lock store 'InMemoryLockStore'.
+2019-10-13 08:00:41,623 [DEBUG]  Extracted model to '/tmp/tmp1vv2k2f3'.
+2019-10-13 08:00:46,493 [DEBUG]  Received user message 'it is a box' with intent '{'name': 'inform', 'confidence': 0.8160202503204346}' and entities '[]'
+2019-10-13 08:01:43,459 [DEBUG]  Received user message 'let it be a box' with intent '{'name': 'inform', 'confidence': 0.9652170538902283}' and entities '[]'
+2019-10-13 08:02:04,330 [DEBUG]  Received user message 'let it be red' with intent '{'name': 'inform', 'confidence': 0.9903948903083801}' and entities '[{'start': 10, 'end': 13, 'value': 'red', 'entity': 'color', 'confidence': 0.9555702638808008, 'extractor': 'CRFEntityExtractor'}]'

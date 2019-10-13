@@ -1,0 +1,105 @@
+## intent:print : 
+- print a 
+- i want a 
+- please give me a
+- produce a
+- make me a
+- make me please a
+- give me  a
+- can you a
+- could you please
+- i need a
+## intent : inform : 
+- let it be 
+- it is 
+- i's 
+## intent : ask : 
+- what color is it 
+- what shape
+- which size
+- which 
+## intenet : deny : 
+- deny
+- don't
+- do not  
+- it's not 
+- it is not
+- id: 1- i want that
+- i desire that
+- i agree
+- i want that
+- that is fine
+- that is correct
+- that is what i want
+- you understood me
+- that is right
+- that is what i mean
+- want that
+- im ok with that
+- ok its good
+- im good with that
+- ok its fine
+- is good
+- it is fine
+- im ok with this
+- im good with this
+- that's not right
+- that's not good
+- incorrect
+- don't do that
+- sounds bad to me
+- sounds not good to me
+- sounds wrong
+- sounds wrong to me
+- no
+- no not that
+- nope
+- nah
+- not really
+- absolutley not
+- no it's not
+- not what i wanted
+- no i would prefer not
+- i would prefer not
+- not necessary
+- i would prefer not to
+- Just don't do that
+- no you can't
+- This would be probably a bad idea
+- i deny it
+- no i refuse
+- definitely not
+- surely not
+- ideally no
+- sounds bad
+- sounds bad to me			
+- its not ok				
+- its not alright			
+- its not okay
+- no it is not
+- no its not correct 
+- bad
+- wrong
+- its bad 
+- its not good						
+## intent : nothing :
+- nothing
+## intent : confirm : 
+- yes
+- yep
+- yeah
+- sure 
+- absolutely
+- that's it 
+- perfect 
+- this is it 
+- totally approve
+- yes i totally approve
+- should do it
+- it should do it 
+- sounds good
+- alright 
+- right 
+- okay thanks 
+- you understood me
+- good

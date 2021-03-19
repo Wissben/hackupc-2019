@@ -79,7 +79,7 @@ opencv-python==4.1.1.26
 ortools==7.4.7247
 packaging==19.2
 pika==1.0.1
-Pillow==6.2.0
+Pillow==8.1.1
 pipreqs==0.4.9
 pkg-resources==0.0.0
 promise==2.2.1

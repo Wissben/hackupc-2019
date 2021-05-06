@@ -34,7 +34,7 @@ docutils==0.15.2
 dopamine-rl==2.0.5
 fbmessenger==6.0.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 future==0.18.0
 gast==0.2.2
 gevent==1.4.0

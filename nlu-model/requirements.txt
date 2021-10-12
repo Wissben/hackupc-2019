@@ -75,7 +75,7 @@ multidict==4.5.2
 networkx==2.3
 numpy==1.17.2
 oauth2client==4.1.3
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 ortools==7.4.7247
 packaging==19.2
 pika==1.0.1
